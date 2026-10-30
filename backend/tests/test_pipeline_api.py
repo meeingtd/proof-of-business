@@ -34,7 +34,7 @@ def test_underwrite_endpoint_offline_when_no_key():
     r = client.post("/demo/fish-seller/underwrite", json={})
     body = r.json()
     assert r.status_code == 200 and body["mode"] == "offline"
-    assert body["verifier"]["blocked"] == [] and body["assumptions"]["rate_is_placeholder"] is True
+    assert body["verifier"]["blocked"] == [] and body["assumptions"]["rate_is_default"] is True and "CIB Ghana" in body["assumptions"]["rate_source"]
     assert body["rows"] and body["docs"][0]["lines"]
 
 

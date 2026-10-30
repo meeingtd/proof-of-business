@@ -30,7 +30,7 @@ SPECS: Dict[str, dict] = {
         "stock_ratio": [0.55, 0.57, 1.75, 0.58, 0.54, 0.55],
         "stock_label": "Stock purchase - fish",
         "transport": 45, "personal": [2, 250],
-        "ask": {"amount": 3000, "purpose": "Stock for the busy season", "tenor_months": 6},
+        "ask": {"amount": 2800, "purpose": "Stock for the busy season", "tenor_months": 6},
     },
     "provisions-shop": {
         "name": "Kofi",

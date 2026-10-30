@@ -15,9 +15,12 @@ COVER_TARGET = 1.5
 STRESS_DROP = 0.20
 STRESS_MIN_COVER = 1.0
 MIN_MONTHS = 3
-# PLACEHOLDER until a sourced typical Ghana microfinance rate is in research/. Shown as an
-# assumption in the UI and not quoted in the pitch.
-DEFAULT_ANNUAL_RATE = 0.30
+# Midpoint of the 31-40% that microfinance banks reported (Chartered Institute of Bankers Ghana,
+# September 2026 pre-MPC survey; see research/ghana-facts.md). The survey does not say whether the
+# rates are flat or reducing-balance, so the UI shows this as an editable assumption.
+DEFAULT_ANNUAL_RATE = 0.35
+RATE_SOURCE = "Midpoint of the 31-40% range microfinance banks reported (CIB Ghana survey, Sept 2026)"
+
 
 STOCK_FACT = "out_cat_stock_purchase"
 

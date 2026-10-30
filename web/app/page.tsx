@@ -18,7 +18,7 @@ const REC_STYLE: Record<string, string> = {
 export default function Home() {
   const [personas, setPersonas] = useState<Persona[]>([]);
   const [slug, setSlug] = useState("");
-  const [loan, setLoan] = useState<Loan>({ amount: 0, tenor_months: 6, ratePct: 30 });
+  const [loan, setLoan] = useState<Loan>({ amount: 0, tenor_months: 6, ratePct: 35 });
   const [data, setData] = useState<Underwritten | null>(null);
   const [busy, setBusy] = useState(false);
   const [err, setErr] = useState("");
@@ -38,7 +38,7 @@ export default function Home() {
       setPersonas(ps);
       const first = ps[0];
       if (!first) return;
-      const l = { amount: first.ask.amount ?? 0, tenor_months: first.ask.tenor_months ?? 6, ratePct: 30 };
+      const l = { amount: first.ask.amount ?? 0, tenor_months: first.ask.tenor_months ?? 6, ratePct: 35 };
       setSlug(first.slug); setLoan(l); build(first.slug, l);
     }).catch(() => setErr("Cannot reach the API. Start it with: uvicorn app.main:app --port 8010"));
   }, [build]);
@@ -132,7 +132,7 @@ export default function Home() {
                 ))}
                 <p className="border-t border-line pt-4 text-xs text-slate">
                   Click any highlighted number to see the statement lines it was computed from. Interest rate
-                  ({Math.round(data.assumptions.annual_rate * 100)}% flat per year) is a placeholder assumption.
+                  ({Math.round(data.assumptions.annual_rate * 100)}% flat per year) is an editable assumption. Default: {data.assumptions.rate_source}.
                 </p>
               </article>
 

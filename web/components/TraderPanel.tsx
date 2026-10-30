@@ -36,7 +36,7 @@ export default function TraderPanel({ personas, selected, onSelect, loan, setLoa
         <label className="mt-3 block text-sm">Flat interest per year (%)
           <input className={field} type="number" min={0} max={200} value={loan.ratePct}
             onChange={(e) => setLoan({ ...loan, ratePct: Number(e.target.value) })} /></label>
-        <p className="mt-1 text-xs text-slate">Placeholder rate: the lender sets the real one.</p>
+        <p className="mt-1 text-xs text-slate">Default is the midpoint of rates microfinance banks reported. The lender sets the real one.</p>
       </section>
 
       <button onClick={onBuild} disabled={busy}

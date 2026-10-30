@@ -11,7 +11,7 @@ from . import personas
 from .ask import AskResult, ask_file, make_offline_ask
 from .pipeline import underwrite
 from .schemas import AnalyzeResponse, Fact, LoanAsk, Memo, VerifierResult
-from .underwriting import (COVER_TARGET, DEFAULT_ANNUAL_RATE, MIN_MONTHS, STRESS_DROP,
+from .underwriting import (COVER_TARGET, DEFAULT_ANNUAL_RATE, MIN_MONTHS, RATE_SOURCE, STRESS_DROP,
                            STRESS_MIN_COVER, with_underwriting)
 from .verifier import verify
 
@@ -67,7 +67,7 @@ def underwrite_persona(slug: str, req: UnderwriteRequest):
         raise HTTPException(502, f"Token Factory step failed: {e}")
     return DemoResponse(
         **res.model_dump(), meta=meta, mode="offline" if offline else "live",
-        assumptions={"annual_rate": rate, "rate_is_placeholder": True, "cover_target": COVER_TARGET,
+        assumptions={"annual_rate": rate, "rate_source": RATE_SOURCE, "rate_is_default": req.annual_rate is None, "cover_target": COVER_TARGET,
                      "stress_drop": STRESS_DROP, "stress_min_cover": STRESS_MIN_COVER,
                      "min_months": MIN_MONTHS, "ask": ask.model_dump()})
 

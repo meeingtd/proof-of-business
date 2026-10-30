@@ -15,7 +15,7 @@ export type Persona = { slug: string; name: string; business: string; location: 
 export type Underwritten = {
   docs: Doc[]; rows: Row[]; facts: Fact[]; memo: Memo; verifier: Verifier; trace: TraceStep[];
   meta: Persona; mode: "live" | "offline";
-  assumptions: { annual_rate: number; rate_is_placeholder: boolean; cover_target: number; stress_drop: number;
+  assumptions: { annual_rate: number; rate_source: string; rate_is_default: boolean; cover_target: number; stress_drop: number;
     stress_min_cover: number; min_months: number; ask: Ask };
 };
 
