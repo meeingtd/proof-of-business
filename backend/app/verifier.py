@@ -116,10 +116,14 @@ def render(body: str, memo: Memo) -> str:
         n = numbers.get(m.group(1))
         if not n:
             return m.group(0)
+        sign = "-" if n.value < 0 else ""
+        v = abs(n.value)
         if n.unit == "GHS":
-            return f"GHS {n.value:,.0f}"
+            return f"{sign}GHS {v:,.0f}"
         if n.unit == "pct":
-            return f"{n.value:.0f}%"
-        return f"{n.value:,.2f}".rstrip("0").rstrip(".") + (f" {n.unit}" if n.unit not in ("count", "ratio") else "")
+            return f"{sign}{v:.0f}%"
+        if n.unit == "ratio":
+            return f"{sign}{v:.2f}x"
+        return f"{sign}{v:,.0f}" if v == int(v) else f"{sign}{v:,.2f}"   # counts, months: the prose supplies the noun
 
     return PLACEHOLDER.sub(fmt, body)
