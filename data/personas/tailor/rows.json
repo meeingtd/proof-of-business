@@ -1,0 +1,1522 @@
+[
+ {
+  "id": "r1",
+  "doc_id": "d1",
+  "line": 2,
+  "date": "2026-05-01",
+  "amount": 170.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r2",
+  "doc_id": "d1",
+  "line": 3,
+  "date": "2026-05-01",
+  "amount": 190.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r3",
+  "doc_id": "d1",
+  "line": 4,
+  "date": "2026-05-03",
+  "amount": 260.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r4",
+  "doc_id": "d1",
+  "line": 5,
+  "date": "2026-05-05",
+  "amount": 330.0,
+  "direction": "out",
+  "counterparty": "Supplier S1",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r5",
+  "doc_id": "d1",
+  "line": 6,
+  "date": "2026-05-07",
+  "amount": 55.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r6",
+  "doc_id": "d1",
+  "line": 7,
+  "date": "2026-05-07",
+  "amount": 70.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r7",
+  "doc_id": "d1",
+  "line": 8,
+  "date": "2026-05-12",
+  "amount": 215.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r8",
+  "doc_id": "d1",
+  "line": 9,
+  "date": "2026-05-12",
+  "amount": 235.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r9",
+  "doc_id": "d1",
+  "line": 10,
+  "date": "2026-05-14",
+  "amount": 325.0,
+  "direction": "out",
+  "counterparty": "Supplier S2",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r10",
+  "doc_id": "d1",
+  "line": 11,
+  "date": "2026-05-15",
+  "amount": 205.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r11",
+  "doc_id": "d1",
+  "line": 12,
+  "date": "2026-05-15",
+  "amount": 50.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r12",
+  "doc_id": "d1",
+  "line": 13,
+  "date": "2026-05-15",
+  "amount": 380.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r13",
+  "doc_id": "d1",
+  "line": 14,
+  "date": "2026-05-18",
+  "amount": 160.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r14",
+  "doc_id": "d1",
+  "line": 15,
+  "date": "2026-05-19",
+  "amount": 130.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r15",
+  "doc_id": "d1",
+  "line": 16,
+  "date": "2026-05-21",
+  "amount": 45.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r16",
+  "doc_id": "d1",
+  "line": 17,
+  "date": "2026-05-21",
+  "amount": 245.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r17",
+  "doc_id": "d1",
+  "line": 18,
+  "date": "2026-05-21",
+  "amount": 295.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r18",
+  "doc_id": "d1",
+  "line": 19,
+  "date": "2026-05-22",
+  "amount": 155.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r19",
+  "doc_id": "d1",
+  "line": 20,
+  "date": "2026-05-23",
+  "amount": 155.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r20",
+  "doc_id": "d1",
+  "line": 21,
+  "date": "2026-05-23",
+  "amount": 305.0,
+  "direction": "out",
+  "counterparty": "Supplier S3",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r21",
+  "doc_id": "d1",
+  "line": 22,
+  "date": "2026-05-24",
+  "amount": 215.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r22",
+  "doc_id": "d1",
+  "line": 23,
+  "date": "2026-05-27",
+  "amount": 180.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r23",
+  "doc_id": "d1",
+  "line": 24,
+  "date": "2026-06-03",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r24",
+  "doc_id": "d1",
+  "line": 25,
+  "date": "2026-06-03",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r25",
+  "doc_id": "d1",
+  "line": 26,
+  "date": "2026-06-03",
+  "amount": 185.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r26",
+  "doc_id": "d1",
+  "line": 27,
+  "date": "2026-06-04",
+  "amount": 200.0,
+  "direction": "out",
+  "counterparty": "Supplier S1",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r27",
+  "doc_id": "d1",
+  "line": 28,
+  "date": "2026-06-06",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r28",
+  "doc_id": "d1",
+  "line": 29,
+  "date": "2026-06-06",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r29",
+  "doc_id": "d1",
+  "line": 30,
+  "date": "2026-06-08",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r30",
+  "doc_id": "d1",
+  "line": 31,
+  "date": "2026-06-08",
+  "amount": 60.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r31",
+  "doc_id": "d1",
+  "line": 32,
+  "date": "2026-06-10",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r32",
+  "doc_id": "d1",
+  "line": 33,
+  "date": "2026-06-10",
+  "amount": 140.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r33",
+  "doc_id": "d1",
+  "line": 34,
+  "date": "2026-06-11",
+  "amount": 220.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r34",
+  "doc_id": "d1",
+  "line": 35,
+  "date": "2026-06-12",
+  "amount": 440.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r35",
+  "doc_id": "d1",
+  "line": 36,
+  "date": "2026-06-12",
+  "amount": 450.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r36",
+  "doc_id": "d1",
+  "line": 37,
+  "date": "2026-06-14",
+  "amount": 195.0,
+  "direction": "out",
+  "counterparty": "Supplier S2",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r37",
+  "doc_id": "d1",
+  "line": 38,
+  "date": "2026-06-18",
+  "amount": 240.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r38",
+  "doc_id": "d1",
+  "line": 39,
+  "date": "2026-06-19",
+  "amount": 95.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r39",
+  "doc_id": "d1",
+  "line": 40,
+  "date": "2026-06-23",
+  "amount": 195.0,
+  "direction": "out",
+  "counterparty": "Supplier S3",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r40",
+  "doc_id": "d1",
+  "line": 41,
+  "date": "2026-06-25",
+  "amount": 90.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r41",
+  "doc_id": "d1",
+  "line": 42,
+  "date": "2026-06-28",
+  "amount": 45.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r42",
+  "doc_id": "d1",
+  "line": 43,
+  "date": "2026-06-28",
+  "amount": 380.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r43",
+  "doc_id": "d1",
+  "line": 44,
+  "date": "2026-07-02",
+  "amount": 170.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r44",
+  "doc_id": "d1",
+  "line": 45,
+  "date": "2026-07-03",
+  "amount": 175.0,
+  "direction": "out",
+  "counterparty": "Supplier S1",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r45",
+  "doc_id": "d1",
+  "line": 46,
+  "date": "2026-07-06",
+  "amount": 165.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r46",
+  "doc_id": "d1",
+  "line": 47,
+  "date": "2026-07-06",
+  "amount": 60.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r47",
+  "doc_id": "d1",
+  "line": 48,
+  "date": "2026-07-07",
+  "amount": 120.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r48",
+  "doc_id": "d1",
+  "line": 49,
+  "date": "2026-07-08",
+  "amount": 370.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r49",
+  "doc_id": "d1",
+  "line": 50,
+  "date": "2026-07-10",
+  "amount": 295.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r50",
+  "doc_id": "d1",
+  "line": 51,
+  "date": "2026-07-11",
+  "amount": 130.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r51",
+  "doc_id": "d1",
+  "line": 52,
+  "date": "2026-07-11",
+  "amount": 210.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r52",
+  "doc_id": "d1",
+  "line": 53,
+  "date": "2026-07-12",
+  "amount": 185.0,
+  "direction": "out",
+  "counterparty": "Supplier S2",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r53",
+  "doc_id": "d1",
+  "line": 54,
+  "date": "2026-07-18",
+  "amount": 45.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r54",
+  "doc_id": "d1",
+  "line": 55,
+  "date": "2026-07-18",
+  "amount": 45.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r55",
+  "doc_id": "d1",
+  "line": 56,
+  "date": "2026-07-19",
+  "amount": 155.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r56",
+  "doc_id": "d1",
+  "line": 57,
+  "date": "2026-07-19",
+  "amount": 255.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r57",
+  "doc_id": "d1",
+  "line": 58,
+  "date": "2026-07-20",
+  "amount": 125.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r58",
+  "doc_id": "d1",
+  "line": 59,
+  "date": "2026-07-20",
+  "amount": 160.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r59",
+  "doc_id": "d1",
+  "line": 60,
+  "date": "2026-07-21",
+  "amount": 70.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r60",
+  "doc_id": "d1",
+  "line": 61,
+  "date": "2026-07-21",
+  "amount": 210.0,
+  "direction": "out",
+  "counterparty": "Supplier S3",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r61",
+  "doc_id": "d1",
+  "line": 62,
+  "date": "2026-07-28",
+  "amount": 205.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r62",
+  "doc_id": "d1",
+  "line": 63,
+  "date": "2026-08-01",
+  "amount": 200.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r63",
+  "doc_id": "d1",
+  "line": 64,
+  "date": "2026-08-02",
+  "amount": 145.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r64",
+  "doc_id": "d1",
+  "line": 65,
+  "date": "2026-08-02",
+  "amount": 45.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r65",
+  "doc_id": "d1",
+  "line": 66,
+  "date": "2026-08-02",
+  "amount": 75.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r66",
+  "doc_id": "d1",
+  "line": 67,
+  "date": "2026-08-02",
+  "amount": 380.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r67",
+  "doc_id": "d1",
+  "line": 68,
+  "date": "2026-08-03",
+  "amount": 290.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r68",
+  "doc_id": "d1",
+  "line": 69,
+  "date": "2026-08-03",
+  "amount": 360.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r69",
+  "doc_id": "d1",
+  "line": 70,
+  "date": "2026-08-03",
+  "amount": 735.0,
+  "direction": "out",
+  "counterparty": "Supplier S1",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r70",
+  "doc_id": "d1",
+  "line": 71,
+  "date": "2026-08-05",
+  "amount": 165.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r71",
+  "doc_id": "d1",
+  "line": 72,
+  "date": "2026-08-05",
+  "amount": 190.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r72",
+  "doc_id": "d1",
+  "line": 73,
+  "date": "2026-08-06",
+  "amount": 200.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r73",
+  "doc_id": "d1",
+  "line": 74,
+  "date": "2026-08-09",
+  "amount": 55.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r74",
+  "doc_id": "d1",
+  "line": 75,
+  "date": "2026-08-09",
+  "amount": 325.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r75",
+  "doc_id": "d1",
+  "line": 76,
+  "date": "2026-08-12",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r76",
+  "doc_id": "d1",
+  "line": 77,
+  "date": "2026-08-12",
+  "amount": 615.0,
+  "direction": "out",
+  "counterparty": "Supplier S2",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r77",
+  "doc_id": "d1",
+  "line": 78,
+  "date": "2026-08-13",
+  "amount": 155.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r78",
+  "doc_id": "d1",
+  "line": 79,
+  "date": "2026-08-15",
+  "amount": 165.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r79",
+  "doc_id": "d1",
+  "line": 80,
+  "date": "2026-08-18",
+  "amount": 215.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r80",
+  "doc_id": "d1",
+  "line": 81,
+  "date": "2026-08-20",
+  "amount": 140.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r81",
+  "doc_id": "d1",
+  "line": 82,
+  "date": "2026-08-23",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r82",
+  "doc_id": "d1",
+  "line": 83,
+  "date": "2026-08-23",
+  "amount": 725.0,
+  "direction": "out",
+  "counterparty": "Supplier S3",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r83",
+  "doc_id": "d1",
+  "line": 84,
+  "date": "2026-08-24",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r84",
+  "doc_id": "d1",
+  "line": 85,
+  "date": "2026-08-26",
+  "amount": 305.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r85",
+  "doc_id": "d1",
+  "line": 86,
+  "date": "2026-08-26",
+  "amount": 315.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r86",
+  "doc_id": "d1",
+  "line": 87,
+  "date": "2026-08-27",
+  "amount": 125.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r87",
+  "doc_id": "d1",
+  "line": 88,
+  "date": "2026-08-27",
+  "amount": 210.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r88",
+  "doc_id": "d1",
+  "line": 89,
+  "date": "2026-08-27",
+  "amount": 410.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r89",
+  "doc_id": "d1",
+  "line": 90,
+  "date": "2026-08-28",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r90",
+  "doc_id": "d1",
+  "line": 91,
+  "date": "2026-08-28",
+  "amount": 135.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r91",
+  "doc_id": "d1",
+  "line": 92,
+  "date": "2026-08-28",
+  "amount": 165.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r92",
+  "doc_id": "d1",
+  "line": 93,
+  "date": "2026-08-28",
+  "amount": 180.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r93",
+  "doc_id": "d1",
+  "line": 94,
+  "date": "2026-08-28",
+  "amount": 90.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r94",
+  "doc_id": "d1",
+  "line": 95,
+  "date": "2026-09-02",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r95",
+  "doc_id": "d1",
+  "line": 96,
+  "date": "2026-09-03",
+  "amount": 575.0,
+  "direction": "out",
+  "counterparty": "Supplier S1",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r96",
+  "doc_id": "d1",
+  "line": 97,
+  "date": "2026-09-04",
+  "amount": 90.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r97",
+  "doc_id": "d1",
+  "line": 98,
+  "date": "2026-09-05",
+  "amount": 185.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r98",
+  "doc_id": "d1",
+  "line": 99,
+  "date": "2026-09-06",
+  "amount": 120.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r99",
+  "doc_id": "d1",
+  "line": 100,
+  "date": "2026-09-06",
+  "amount": 120.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r100",
+  "doc_id": "d1",
+  "line": 101,
+  "date": "2026-09-06",
+  "amount": 140.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r101",
+  "doc_id": "d1",
+  "line": 102,
+  "date": "2026-09-06",
+  "amount": 205.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r102",
+  "doc_id": "d1",
+  "line": 103,
+  "date": "2026-09-07",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r103",
+  "doc_id": "d1",
+  "line": 104,
+  "date": "2026-09-07",
+  "amount": 115.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r104",
+  "doc_id": "d1",
+  "line": 105,
+  "date": "2026-09-08",
+  "amount": 115.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r105",
+  "doc_id": "d1",
+  "line": 106,
+  "date": "2026-09-08",
+  "amount": 115.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r106",
+  "doc_id": "d1",
+  "line": 107,
+  "date": "2026-09-10",
+  "amount": 315.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r107",
+  "doc_id": "d1",
+  "line": 108,
+  "date": "2026-09-10",
+  "amount": 50.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r108",
+  "doc_id": "d1",
+  "line": 109,
+  "date": "2026-09-11",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r109",
+  "doc_id": "d1",
+  "line": 110,
+  "date": "2026-09-11",
+  "amount": 315.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r110",
+  "doc_id": "d1",
+  "line": 111,
+  "date": "2026-09-12",
+  "amount": 180.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r111",
+  "doc_id": "d1",
+  "line": 112,
+  "date": "2026-09-12",
+  "amount": 335.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r112",
+  "doc_id": "d1",
+  "line": 113,
+  "date": "2026-09-13",
+  "amount": 440.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r113",
+  "doc_id": "d1",
+  "line": 114,
+  "date": "2026-09-13",
+  "amount": 580.0,
+  "direction": "out",
+  "counterparty": "Supplier S2",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r114",
+  "doc_id": "d1",
+  "line": 115,
+  "date": "2026-09-15",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r115",
+  "doc_id": "d1",
+  "line": 116,
+  "date": "2026-09-15",
+  "amount": 115.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r116",
+  "doc_id": "d1",
+  "line": 117,
+  "date": "2026-09-16",
+  "amount": 110.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r117",
+  "doc_id": "d1",
+  "line": 118,
+  "date": "2026-09-19",
+  "amount": 70.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r118",
+  "doc_id": "d1",
+  "line": 119,
+  "date": "2026-09-21",
+  "amount": 115.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r119",
+  "doc_id": "d1",
+  "line": 120,
+  "date": "2026-09-21",
+  "amount": 210.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r120",
+  "doc_id": "d1",
+  "line": 121,
+  "date": "2026-09-22",
+  "amount": 135.0,
+  "direction": "in",
+  "counterparty": "Customer A8",
+  "category": "sales"
+ },
+ {
+  "id": "r121",
+  "doc_id": "d1",
+  "line": 122,
+  "date": "2026-09-23",
+  "amount": 180.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r122",
+  "doc_id": "d1",
+  "line": 123,
+  "date": "2026-09-24",
+  "amount": 175.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r123",
+  "doc_id": "d1",
+  "line": 124,
+  "date": "2026-09-24",
+  "amount": 560.0,
+  "direction": "out",
+  "counterparty": "Supplier S3",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r124",
+  "doc_id": "d1",
+  "line": 125,
+  "date": "2026-09-25",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r125",
+  "doc_id": "d1",
+  "line": 126,
+  "date": "2026-09-25",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r126",
+  "doc_id": "d1",
+  "line": 127,
+  "date": "2026-09-25",
+  "amount": 140.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r127",
+  "doc_id": "d1",
+  "line": 128,
+  "date": "2026-09-26",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r128",
+  "doc_id": "d1",
+  "line": 129,
+  "date": "2026-09-26",
+  "amount": 80.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r129",
+  "doc_id": "d1",
+  "line": 130,
+  "date": "2026-09-27",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r130",
+  "doc_id": "d1",
+  "line": 131,
+  "date": "2026-10-01",
+  "amount": 240.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r131",
+  "doc_id": "d1",
+  "line": 132,
+  "date": "2026-10-05",
+  "amount": 285.0,
+  "direction": "out",
+  "counterparty": "Supplier S1",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r132",
+  "doc_id": "d1",
+  "line": 133,
+  "date": "2026-10-07",
+  "amount": 155.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r133",
+  "doc_id": "d1",
+  "line": 134,
+  "date": "2026-10-09",
+  "amount": 315.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r134",
+  "doc_id": "d1",
+  "line": 135,
+  "date": "2026-10-09",
+  "amount": 390.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r135",
+  "doc_id": "d1",
+  "line": 136,
+  "date": "2026-10-10",
+  "amount": 335.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r136",
+  "doc_id": "d1",
+  "line": 137,
+  "date": "2026-10-12",
+  "amount": 50.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r137",
+  "doc_id": "d1",
+  "line": 138,
+  "date": "2026-10-12",
+  "amount": 55.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r138",
+  "doc_id": "d1",
+  "line": 139,
+  "date": "2026-10-12",
+  "amount": 375.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r139",
+  "doc_id": "d1",
+  "line": 140,
+  "date": "2026-10-13",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r140",
+  "doc_id": "d1",
+  "line": 141,
+  "date": "2026-10-14",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r141",
+  "doc_id": "d1",
+  "line": 142,
+  "date": "2026-10-15",
+  "amount": 190.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r142",
+  "doc_id": "d1",
+  "line": 143,
+  "date": "2026-10-15",
+  "amount": 295.0,
+  "direction": "out",
+  "counterparty": "Supplier S2",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r143",
+  "doc_id": "d1",
+  "line": 144,
+  "date": "2026-10-17",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer A8",
+  "category": "sales"
+ },
+ {
+  "id": "r144",
+  "doc_id": "d1",
+  "line": 145,
+  "date": "2026-10-19",
+  "amount": 170.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r145",
+  "doc_id": "d1",
+  "line": 146,
+  "date": "2026-10-20",
+  "amount": 95.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r146",
+  "doc_id": "d1",
+  "line": 147,
+  "date": "2026-10-21",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A8",
+  "category": "sales"
+ },
+ {
+  "id": "r147",
+  "doc_id": "d1",
+  "line": 148,
+  "date": "2026-10-22",
+  "amount": 285.0,
+  "direction": "out",
+  "counterparty": "Supplier S3",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r148",
+  "doc_id": "d1",
+  "line": 149,
+  "date": "2026-10-25",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r149",
+  "doc_id": "d1",
+  "line": 150,
+  "date": "2026-10-26",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r150",
+  "doc_id": "d1",
+  "line": 151,
+  "date": "2026-10-26",
+  "amount": 185.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r151",
+  "doc_id": "d1",
+  "line": 152,
+  "date": "2026-10-26",
+  "amount": 95.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r152",
+  "doc_id": "d1",
+  "line": 153,
+  "date": "2026-10-27",
+  "amount": 315.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ }
+]

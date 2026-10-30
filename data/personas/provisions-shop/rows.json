@@ -1,0 +1,6282 @@
+[
+ {
+  "id": "r1",
+  "doc_id": "d1",
+  "line": 2,
+  "date": "2026-05-01",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer C9",
+  "category": "sales"
+ },
+ {
+  "id": "r2",
+  "doc_id": "d1",
+  "line": 3,
+  "date": "2026-05-01",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer E8",
+  "category": "sales"
+ },
+ {
+  "id": "r3",
+  "doc_id": "d1",
+  "line": 4,
+  "date": "2026-05-01",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer C10",
+  "category": "sales"
+ },
+ {
+  "id": "r4",
+  "doc_id": "d1",
+  "line": 5,
+  "date": "2026-05-01",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer D1",
+  "category": "sales"
+ },
+ {
+  "id": "r5",
+  "doc_id": "d1",
+  "line": 6,
+  "date": "2026-05-02",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer F6",
+  "category": "sales"
+ },
+ {
+  "id": "r6",
+  "doc_id": "d1",
+  "line": 7,
+  "date": "2026-05-02",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer C8",
+  "category": "sales"
+ },
+ {
+  "id": "r7",
+  "doc_id": "d1",
+  "line": 8,
+  "date": "2026-05-02",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer C9",
+  "category": "sales"
+ },
+ {
+  "id": "r8",
+  "doc_id": "d1",
+  "line": 9,
+  "date": "2026-05-03",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r9",
+  "doc_id": "d1",
+  "line": 10,
+  "date": "2026-05-03",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer B9",
+  "category": "sales"
+ },
+ {
+  "id": "r10",
+  "doc_id": "d1",
+  "line": 11,
+  "date": "2026-05-03",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r11",
+  "doc_id": "d1",
+  "line": 12,
+  "date": "2026-05-03",
+  "amount": 55.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r12",
+  "doc_id": "d1",
+  "line": 13,
+  "date": "2026-05-04",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r13",
+  "doc_id": "d1",
+  "line": 14,
+  "date": "2026-05-04",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer E7",
+  "category": "sales"
+ },
+ {
+  "id": "r14",
+  "doc_id": "d1",
+  "line": 15,
+  "date": "2026-05-04",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r15",
+  "doc_id": "d1",
+  "line": 16,
+  "date": "2026-05-04",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer D7",
+  "category": "sales"
+ },
+ {
+  "id": "r16",
+  "doc_id": "d1",
+  "line": 17,
+  "date": "2026-05-04",
+  "amount": 110.0,
+  "direction": "in",
+  "counterparty": "Customer B3",
+  "category": "sales"
+ },
+ {
+  "id": "r17",
+  "doc_id": "d1",
+  "line": 18,
+  "date": "2026-05-04",
+  "amount": 270.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r18",
+  "doc_id": "d1",
+  "line": 19,
+  "date": "2026-05-05",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer A10",
+  "category": "sales"
+ },
+ {
+  "id": "r19",
+  "doc_id": "d1",
+  "line": 20,
+  "date": "2026-05-05",
+  "amount": 1035.0,
+  "direction": "out",
+  "counterparty": "Supplier S1",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r20",
+  "doc_id": "d1",
+  "line": 21,
+  "date": "2026-05-06",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer E5",
+  "category": "sales"
+ },
+ {
+  "id": "r21",
+  "doc_id": "d1",
+  "line": 22,
+  "date": "2026-05-06",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer C8",
+  "category": "sales"
+ },
+ {
+  "id": "r22",
+  "doc_id": "d1",
+  "line": 23,
+  "date": "2026-05-06",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer C8",
+  "category": "sales"
+ },
+ {
+  "id": "r23",
+  "doc_id": "d1",
+  "line": 24,
+  "date": "2026-05-06",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer C7",
+  "category": "sales"
+ },
+ {
+  "id": "r24",
+  "doc_id": "d1",
+  "line": 25,
+  "date": "2026-05-06",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer C10",
+  "category": "sales"
+ },
+ {
+  "id": "r25",
+  "doc_id": "d1",
+  "line": 26,
+  "date": "2026-05-07",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer F6",
+  "category": "sales"
+ },
+ {
+  "id": "r26",
+  "doc_id": "d1",
+  "line": 27,
+  "date": "2026-05-08",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r27",
+  "doc_id": "d1",
+  "line": 28,
+  "date": "2026-05-09",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer C10",
+  "category": "sales"
+ },
+ {
+  "id": "r28",
+  "doc_id": "d1",
+  "line": 29,
+  "date": "2026-05-09",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer E6",
+  "category": "sales"
+ },
+ {
+  "id": "r29",
+  "doc_id": "d1",
+  "line": 30,
+  "date": "2026-05-09",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer B4",
+  "category": "sales"
+ },
+ {
+  "id": "r30",
+  "doc_id": "d1",
+  "line": 31,
+  "date": "2026-05-10",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer E7",
+  "category": "sales"
+ },
+ {
+  "id": "r31",
+  "doc_id": "d1",
+  "line": 32,
+  "date": "2026-05-10",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r32",
+  "doc_id": "d1",
+  "line": 33,
+  "date": "2026-05-10",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer C1",
+  "category": "sales"
+ },
+ {
+  "id": "r33",
+  "doc_id": "d1",
+  "line": 34,
+  "date": "2026-05-11",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r34",
+  "doc_id": "d1",
+  "line": 35,
+  "date": "2026-05-11",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r35",
+  "doc_id": "d1",
+  "line": 36,
+  "date": "2026-05-11",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer F2",
+  "category": "sales"
+ },
+ {
+  "id": "r36",
+  "doc_id": "d1",
+  "line": 37,
+  "date": "2026-05-12",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer E1",
+  "category": "sales"
+ },
+ {
+  "id": "r37",
+  "doc_id": "d1",
+  "line": 38,
+  "date": "2026-05-12",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer F6",
+  "category": "sales"
+ },
+ {
+  "id": "r38",
+  "doc_id": "d1",
+  "line": 39,
+  "date": "2026-05-12",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer B4",
+  "category": "sales"
+ },
+ {
+  "id": "r39",
+  "doc_id": "d1",
+  "line": 40,
+  "date": "2026-05-12",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer D6",
+  "category": "sales"
+ },
+ {
+  "id": "r40",
+  "doc_id": "d1",
+  "line": 41,
+  "date": "2026-05-12",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r41",
+  "doc_id": "d1",
+  "line": 42,
+  "date": "2026-05-12",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer E10",
+  "category": "sales"
+ },
+ {
+  "id": "r42",
+  "doc_id": "d1",
+  "line": 43,
+  "date": "2026-05-12",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer B9",
+  "category": "sales"
+ },
+ {
+  "id": "r43",
+  "doc_id": "d1",
+  "line": 44,
+  "date": "2026-05-12",
+  "amount": 110.0,
+  "direction": "in",
+  "counterparty": "Customer D1",
+  "category": "sales"
+ },
+ {
+  "id": "r44",
+  "doc_id": "d1",
+  "line": 45,
+  "date": "2026-05-13",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer E9",
+  "category": "sales"
+ },
+ {
+  "id": "r45",
+  "doc_id": "d1",
+  "line": 46,
+  "date": "2026-05-13",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer E9",
+  "category": "sales"
+ },
+ {
+  "id": "r46",
+  "doc_id": "d1",
+  "line": 47,
+  "date": "2026-05-13",
+  "amount": 1010.0,
+  "direction": "out",
+  "counterparty": "Supplier S2",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r47",
+  "doc_id": "d1",
+  "line": 48,
+  "date": "2026-05-14",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer B9",
+  "category": "sales"
+ },
+ {
+  "id": "r48",
+  "doc_id": "d1",
+  "line": 49,
+  "date": "2026-05-14",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r49",
+  "doc_id": "d1",
+  "line": 50,
+  "date": "2026-05-14",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer E10",
+  "category": "sales"
+ },
+ {
+  "id": "r50",
+  "doc_id": "d1",
+  "line": 51,
+  "date": "2026-05-15",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer C4",
+  "category": "sales"
+ },
+ {
+  "id": "r51",
+  "doc_id": "d1",
+  "line": 52,
+  "date": "2026-05-15",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer B5",
+  "category": "sales"
+ },
+ {
+  "id": "r52",
+  "doc_id": "d1",
+  "line": 53,
+  "date": "2026-05-15",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer E4",
+  "category": "sales"
+ },
+ {
+  "id": "r53",
+  "doc_id": "d1",
+  "line": 54,
+  "date": "2026-05-16",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r54",
+  "doc_id": "d1",
+  "line": 55,
+  "date": "2026-05-16",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer D6",
+  "category": "sales"
+ },
+ {
+  "id": "r55",
+  "doc_id": "d1",
+  "line": 56,
+  "date": "2026-05-17",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r56",
+  "doc_id": "d1",
+  "line": 57,
+  "date": "2026-05-17",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer B8",
+  "category": "sales"
+ },
+ {
+  "id": "r57",
+  "doc_id": "d1",
+  "line": 58,
+  "date": "2026-05-18",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer B8",
+  "category": "sales"
+ },
+ {
+  "id": "r58",
+  "doc_id": "d1",
+  "line": 59,
+  "date": "2026-05-18",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer C9",
+  "category": "sales"
+ },
+ {
+  "id": "r59",
+  "doc_id": "d1",
+  "line": 60,
+  "date": "2026-05-18",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer E9",
+  "category": "sales"
+ },
+ {
+  "id": "r60",
+  "doc_id": "d1",
+  "line": 61,
+  "date": "2026-05-18",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer C9",
+  "category": "sales"
+ },
+ {
+  "id": "r61",
+  "doc_id": "d1",
+  "line": 62,
+  "date": "2026-05-18",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer B2",
+  "category": "sales"
+ },
+ {
+  "id": "r62",
+  "doc_id": "d1",
+  "line": 63,
+  "date": "2026-05-18",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r63",
+  "doc_id": "d1",
+  "line": 64,
+  "date": "2026-05-18",
+  "amount": 70.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r64",
+  "doc_id": "d1",
+  "line": 65,
+  "date": "2026-05-19",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r65",
+  "doc_id": "d1",
+  "line": 66,
+  "date": "2026-05-19",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r66",
+  "doc_id": "d1",
+  "line": 67,
+  "date": "2026-05-19",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer F5",
+  "category": "sales"
+ },
+ {
+  "id": "r67",
+  "doc_id": "d1",
+  "line": 68,
+  "date": "2026-05-20",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer C8",
+  "category": "sales"
+ },
+ {
+  "id": "r68",
+  "doc_id": "d1",
+  "line": 69,
+  "date": "2026-05-20",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer E5",
+  "category": "sales"
+ },
+ {
+  "id": "r69",
+  "doc_id": "d1",
+  "line": 70,
+  "date": "2026-05-21",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer D10",
+  "category": "sales"
+ },
+ {
+  "id": "r70",
+  "doc_id": "d1",
+  "line": 71,
+  "date": "2026-05-21",
+  "amount": 110.0,
+  "direction": "in",
+  "counterparty": "Customer C6",
+  "category": "sales"
+ },
+ {
+  "id": "r71",
+  "doc_id": "d1",
+  "line": 72,
+  "date": "2026-05-21",
+  "amount": 295.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r72",
+  "doc_id": "d1",
+  "line": 73,
+  "date": "2026-05-21",
+  "amount": 1040.0,
+  "direction": "out",
+  "counterparty": "Supplier S3",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r73",
+  "doc_id": "d1",
+  "line": 74,
+  "date": "2026-05-22",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer F4",
+  "category": "sales"
+ },
+ {
+  "id": "r74",
+  "doc_id": "d1",
+  "line": 75,
+  "date": "2026-05-22",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer D7",
+  "category": "sales"
+ },
+ {
+  "id": "r75",
+  "doc_id": "d1",
+  "line": 76,
+  "date": "2026-05-22",
+  "amount": 45.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r76",
+  "doc_id": "d1",
+  "line": 77,
+  "date": "2026-05-23",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer B2",
+  "category": "sales"
+ },
+ {
+  "id": "r77",
+  "doc_id": "d1",
+  "line": 78,
+  "date": "2026-05-23",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer E8",
+  "category": "sales"
+ },
+ {
+  "id": "r78",
+  "doc_id": "d1",
+  "line": 79,
+  "date": "2026-05-24",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer C6",
+  "category": "sales"
+ },
+ {
+  "id": "r79",
+  "doc_id": "d1",
+  "line": 80,
+  "date": "2026-05-24",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer F8",
+  "category": "sales"
+ },
+ {
+  "id": "r80",
+  "doc_id": "d1",
+  "line": 81,
+  "date": "2026-05-24",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer B5",
+  "category": "sales"
+ },
+ {
+  "id": "r81",
+  "doc_id": "d1",
+  "line": 82,
+  "date": "2026-05-24",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer E10",
+  "category": "sales"
+ },
+ {
+  "id": "r82",
+  "doc_id": "d1",
+  "line": 83,
+  "date": "2026-05-25",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r83",
+  "doc_id": "d1",
+  "line": 84,
+  "date": "2026-05-25",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer F2",
+  "category": "sales"
+ },
+ {
+  "id": "r84",
+  "doc_id": "d1",
+  "line": 85,
+  "date": "2026-05-25",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer B5",
+  "category": "sales"
+ },
+ {
+  "id": "r85",
+  "doc_id": "d1",
+  "line": 86,
+  "date": "2026-05-25",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer E2",
+  "category": "sales"
+ },
+ {
+  "id": "r86",
+  "doc_id": "d1",
+  "line": 87,
+  "date": "2026-05-25",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer F9",
+  "category": "sales"
+ },
+ {
+  "id": "r87",
+  "doc_id": "d1",
+  "line": 88,
+  "date": "2026-05-26",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer B4",
+  "category": "sales"
+ },
+ {
+  "id": "r88",
+  "doc_id": "d1",
+  "line": 89,
+  "date": "2026-05-26",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer F4",
+  "category": "sales"
+ },
+ {
+  "id": "r89",
+  "doc_id": "d1",
+  "line": 90,
+  "date": "2026-05-26",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer E3",
+  "category": "sales"
+ },
+ {
+  "id": "r90",
+  "doc_id": "d1",
+  "line": 91,
+  "date": "2026-05-26",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer E7",
+  "category": "sales"
+ },
+ {
+  "id": "r91",
+  "doc_id": "d1",
+  "line": 92,
+  "date": "2026-05-26",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r92",
+  "doc_id": "d1",
+  "line": 93,
+  "date": "2026-05-26",
+  "amount": 60.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r93",
+  "doc_id": "d1",
+  "line": 94,
+  "date": "2026-05-27",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer E9",
+  "category": "sales"
+ },
+ {
+  "id": "r94",
+  "doc_id": "d1",
+  "line": 95,
+  "date": "2026-05-27",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer F4",
+  "category": "sales"
+ },
+ {
+  "id": "r95",
+  "doc_id": "d1",
+  "line": 96,
+  "date": "2026-05-27",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer E7",
+  "category": "sales"
+ },
+ {
+  "id": "r96",
+  "doc_id": "d1",
+  "line": 97,
+  "date": "2026-05-27",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer C3",
+  "category": "sales"
+ },
+ {
+  "id": "r97",
+  "doc_id": "d1",
+  "line": 98,
+  "date": "2026-05-27",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer E10",
+  "category": "sales"
+ },
+ {
+  "id": "r98",
+  "doc_id": "d1",
+  "line": 99,
+  "date": "2026-06-01",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer F2",
+  "category": "sales"
+ },
+ {
+  "id": "r99",
+  "doc_id": "d1",
+  "line": 100,
+  "date": "2026-06-01",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer B8",
+  "category": "sales"
+ },
+ {
+  "id": "r100",
+  "doc_id": "d1",
+  "line": 101,
+  "date": "2026-06-01",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer F10",
+  "category": "sales"
+ },
+ {
+  "id": "r101",
+  "doc_id": "d1",
+  "line": 102,
+  "date": "2026-06-02",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r102",
+  "doc_id": "d1",
+  "line": 103,
+  "date": "2026-06-02",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer F2",
+  "category": "sales"
+ },
+ {
+  "id": "r103",
+  "doc_id": "d1",
+  "line": 104,
+  "date": "2026-06-02",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer F9",
+  "category": "sales"
+ },
+ {
+  "id": "r104",
+  "doc_id": "d1",
+  "line": 105,
+  "date": "2026-06-02",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r105",
+  "doc_id": "d1",
+  "line": 106,
+  "date": "2026-06-02",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer E4",
+  "category": "sales"
+ },
+ {
+  "id": "r106",
+  "doc_id": "d1",
+  "line": 107,
+  "date": "2026-06-03",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r107",
+  "doc_id": "d1",
+  "line": 108,
+  "date": "2026-06-03",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer E2",
+  "category": "sales"
+ },
+ {
+  "id": "r108",
+  "doc_id": "d1",
+  "line": 109,
+  "date": "2026-06-03",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer A10",
+  "category": "sales"
+ },
+ {
+  "id": "r109",
+  "doc_id": "d1",
+  "line": 110,
+  "date": "2026-06-03",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer D2",
+  "category": "sales"
+ },
+ {
+  "id": "r110",
+  "doc_id": "d1",
+  "line": 111,
+  "date": "2026-06-03",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer D4",
+  "category": "sales"
+ },
+ {
+  "id": "r111",
+  "doc_id": "d1",
+  "line": 112,
+  "date": "2026-06-03",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r112",
+  "doc_id": "d1",
+  "line": 113,
+  "date": "2026-06-03",
+  "amount": 85.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r113",
+  "doc_id": "d1",
+  "line": 114,
+  "date": "2026-06-03",
+  "amount": 1150.0,
+  "direction": "out",
+  "counterparty": "Supplier S1",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r114",
+  "doc_id": "d1",
+  "line": 115,
+  "date": "2026-06-04",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r115",
+  "doc_id": "d1",
+  "line": 116,
+  "date": "2026-06-04",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer C9",
+  "category": "sales"
+ },
+ {
+  "id": "r116",
+  "doc_id": "d1",
+  "line": 117,
+  "date": "2026-06-04",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer E9",
+  "category": "sales"
+ },
+ {
+  "id": "r117",
+  "doc_id": "d1",
+  "line": 118,
+  "date": "2026-06-04",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer C1",
+  "category": "sales"
+ },
+ {
+  "id": "r118",
+  "doc_id": "d1",
+  "line": 119,
+  "date": "2026-06-05",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer F8",
+  "category": "sales"
+ },
+ {
+  "id": "r119",
+  "doc_id": "d1",
+  "line": 120,
+  "date": "2026-06-05",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r120",
+  "doc_id": "d1",
+  "line": 121,
+  "date": "2026-06-05",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer C4",
+  "category": "sales"
+ },
+ {
+  "id": "r121",
+  "doc_id": "d1",
+  "line": 122,
+  "date": "2026-06-05",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer B4",
+  "category": "sales"
+ },
+ {
+  "id": "r122",
+  "doc_id": "d1",
+  "line": 123,
+  "date": "2026-06-05",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r123",
+  "doc_id": "d1",
+  "line": 124,
+  "date": "2026-06-05",
+  "amount": 75.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r124",
+  "doc_id": "d1",
+  "line": 125,
+  "date": "2026-06-06",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r125",
+  "doc_id": "d1",
+  "line": 126,
+  "date": "2026-06-06",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer B4",
+  "category": "sales"
+ },
+ {
+  "id": "r126",
+  "doc_id": "d1",
+  "line": 127,
+  "date": "2026-06-07",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer E5",
+  "category": "sales"
+ },
+ {
+  "id": "r127",
+  "doc_id": "d1",
+  "line": 128,
+  "date": "2026-06-07",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer D5",
+  "category": "sales"
+ },
+ {
+  "id": "r128",
+  "doc_id": "d1",
+  "line": 129,
+  "date": "2026-06-07",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer E9",
+  "category": "sales"
+ },
+ {
+  "id": "r129",
+  "doc_id": "d1",
+  "line": 130,
+  "date": "2026-06-07",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer E4",
+  "category": "sales"
+ },
+ {
+  "id": "r130",
+  "doc_id": "d1",
+  "line": 131,
+  "date": "2026-06-07",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer D7",
+  "category": "sales"
+ },
+ {
+  "id": "r131",
+  "doc_id": "d1",
+  "line": 132,
+  "date": "2026-06-07",
+  "amount": 110.0,
+  "direction": "in",
+  "counterparty": "Customer F2",
+  "category": "sales"
+ },
+ {
+  "id": "r132",
+  "doc_id": "d1",
+  "line": 133,
+  "date": "2026-06-09",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer D8",
+  "category": "sales"
+ },
+ {
+  "id": "r133",
+  "doc_id": "d1",
+  "line": 134,
+  "date": "2026-06-09",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer B5",
+  "category": "sales"
+ },
+ {
+  "id": "r134",
+  "doc_id": "d1",
+  "line": 135,
+  "date": "2026-06-09",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer C9",
+  "category": "sales"
+ },
+ {
+  "id": "r135",
+  "doc_id": "d1",
+  "line": 136,
+  "date": "2026-06-09",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer D10",
+  "category": "sales"
+ },
+ {
+  "id": "r136",
+  "doc_id": "d1",
+  "line": 137,
+  "date": "2026-06-10",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer F2",
+  "category": "sales"
+ },
+ {
+  "id": "r137",
+  "doc_id": "d1",
+  "line": 138,
+  "date": "2026-06-10",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer C4",
+  "category": "sales"
+ },
+ {
+  "id": "r138",
+  "doc_id": "d1",
+  "line": 139,
+  "date": "2026-06-10",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r139",
+  "doc_id": "d1",
+  "line": 140,
+  "date": "2026-06-11",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer E8",
+  "category": "sales"
+ },
+ {
+  "id": "r140",
+  "doc_id": "d1",
+  "line": 141,
+  "date": "2026-06-11",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r141",
+  "doc_id": "d1",
+  "line": 142,
+  "date": "2026-06-11",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A8",
+  "category": "sales"
+ },
+ {
+  "id": "r142",
+  "doc_id": "d1",
+  "line": 143,
+  "date": "2026-06-11",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer E2",
+  "category": "sales"
+ },
+ {
+  "id": "r143",
+  "doc_id": "d1",
+  "line": 144,
+  "date": "2026-06-12",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r144",
+  "doc_id": "d1",
+  "line": 145,
+  "date": "2026-06-13",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r145",
+  "doc_id": "d1",
+  "line": 146,
+  "date": "2026-06-13",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer E8",
+  "category": "sales"
+ },
+ {
+  "id": "r146",
+  "doc_id": "d1",
+  "line": 147,
+  "date": "2026-06-13",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer C6",
+  "category": "sales"
+ },
+ {
+  "id": "r147",
+  "doc_id": "d1",
+  "line": 148,
+  "date": "2026-06-13",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer F7",
+  "category": "sales"
+ },
+ {
+  "id": "r148",
+  "doc_id": "d1",
+  "line": 149,
+  "date": "2026-06-13",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer B3",
+  "category": "sales"
+ },
+ {
+  "id": "r149",
+  "doc_id": "d1",
+  "line": 150,
+  "date": "2026-06-13",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer D8",
+  "category": "sales"
+ },
+ {
+  "id": "r150",
+  "doc_id": "d1",
+  "line": 151,
+  "date": "2026-06-13",
+  "amount": 985.0,
+  "direction": "out",
+  "counterparty": "Supplier S2",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r151",
+  "doc_id": "d1",
+  "line": 152,
+  "date": "2026-06-14",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer E2",
+  "category": "sales"
+ },
+ {
+  "id": "r152",
+  "doc_id": "d1",
+  "line": 153,
+  "date": "2026-06-14",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r153",
+  "doc_id": "d1",
+  "line": 154,
+  "date": "2026-06-14",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer F2",
+  "category": "sales"
+ },
+ {
+  "id": "r154",
+  "doc_id": "d1",
+  "line": 155,
+  "date": "2026-06-16",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r155",
+  "doc_id": "d1",
+  "line": 156,
+  "date": "2026-06-16",
+  "amount": 110.0,
+  "direction": "in",
+  "counterparty": "Customer E1",
+  "category": "sales"
+ },
+ {
+  "id": "r156",
+  "doc_id": "d1",
+  "line": 157,
+  "date": "2026-06-16",
+  "amount": 250.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r157",
+  "doc_id": "d1",
+  "line": 158,
+  "date": "2026-06-17",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer C8",
+  "category": "sales"
+ },
+ {
+  "id": "r158",
+  "doc_id": "d1",
+  "line": 159,
+  "date": "2026-06-17",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer B8",
+  "category": "sales"
+ },
+ {
+  "id": "r159",
+  "doc_id": "d1",
+  "line": 160,
+  "date": "2026-06-17",
+  "amount": 50.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r160",
+  "doc_id": "d1",
+  "line": 161,
+  "date": "2026-06-18",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer D6",
+  "category": "sales"
+ },
+ {
+  "id": "r161",
+  "doc_id": "d1",
+  "line": 162,
+  "date": "2026-06-18",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer B1",
+  "category": "sales"
+ },
+ {
+  "id": "r162",
+  "doc_id": "d1",
+  "line": 163,
+  "date": "2026-06-18",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer E2",
+  "category": "sales"
+ },
+ {
+  "id": "r163",
+  "doc_id": "d1",
+  "line": 164,
+  "date": "2026-06-19",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r164",
+  "doc_id": "d1",
+  "line": 165,
+  "date": "2026-06-19",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer D7",
+  "category": "sales"
+ },
+ {
+  "id": "r165",
+  "doc_id": "d1",
+  "line": 166,
+  "date": "2026-06-20",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer C5",
+  "category": "sales"
+ },
+ {
+  "id": "r166",
+  "doc_id": "d1",
+  "line": 167,
+  "date": "2026-06-20",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer D8",
+  "category": "sales"
+ },
+ {
+  "id": "r167",
+  "doc_id": "d1",
+  "line": 168,
+  "date": "2026-06-20",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer E2",
+  "category": "sales"
+ },
+ {
+  "id": "r168",
+  "doc_id": "d1",
+  "line": 169,
+  "date": "2026-06-20",
+  "amount": 110.0,
+  "direction": "in",
+  "counterparty": "Customer B10",
+  "category": "sales"
+ },
+ {
+  "id": "r169",
+  "doc_id": "d1",
+  "line": 170,
+  "date": "2026-06-21",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r170",
+  "doc_id": "d1",
+  "line": 171,
+  "date": "2026-06-21",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r171",
+  "doc_id": "d1",
+  "line": 172,
+  "date": "2026-06-21",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer F4",
+  "category": "sales"
+ },
+ {
+  "id": "r172",
+  "doc_id": "d1",
+  "line": 173,
+  "date": "2026-06-21",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer B6",
+  "category": "sales"
+ },
+ {
+  "id": "r173",
+  "doc_id": "d1",
+  "line": 174,
+  "date": "2026-06-21",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer F9",
+  "category": "sales"
+ },
+ {
+  "id": "r174",
+  "doc_id": "d1",
+  "line": 175,
+  "date": "2026-06-21",
+  "amount": 1025.0,
+  "direction": "out",
+  "counterparty": "Supplier S3",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r175",
+  "doc_id": "d1",
+  "line": 176,
+  "date": "2026-06-22",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer B4",
+  "category": "sales"
+ },
+ {
+  "id": "r176",
+  "doc_id": "d1",
+  "line": 177,
+  "date": "2026-06-22",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer B10",
+  "category": "sales"
+ },
+ {
+  "id": "r177",
+  "doc_id": "d1",
+  "line": 178,
+  "date": "2026-06-23",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer C1",
+  "category": "sales"
+ },
+ {
+  "id": "r178",
+  "doc_id": "d1",
+  "line": 179,
+  "date": "2026-06-23",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer F5",
+  "category": "sales"
+ },
+ {
+  "id": "r179",
+  "doc_id": "d1",
+  "line": 180,
+  "date": "2026-06-23",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer A10",
+  "category": "sales"
+ },
+ {
+  "id": "r180",
+  "doc_id": "d1",
+  "line": 181,
+  "date": "2026-06-23",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer D2",
+  "category": "sales"
+ },
+ {
+  "id": "r181",
+  "doc_id": "d1",
+  "line": 182,
+  "date": "2026-06-23",
+  "amount": 75.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r182",
+  "doc_id": "d1",
+  "line": 183,
+  "date": "2026-06-24",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r183",
+  "doc_id": "d1",
+  "line": 184,
+  "date": "2026-06-24",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer B3",
+  "category": "sales"
+ },
+ {
+  "id": "r184",
+  "doc_id": "d1",
+  "line": 185,
+  "date": "2026-06-24",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r185",
+  "doc_id": "d1",
+  "line": 186,
+  "date": "2026-06-24",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer E3",
+  "category": "sales"
+ },
+ {
+  "id": "r186",
+  "doc_id": "d1",
+  "line": 187,
+  "date": "2026-06-24",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer F10",
+  "category": "sales"
+ },
+ {
+  "id": "r187",
+  "doc_id": "d1",
+  "line": 188,
+  "date": "2026-06-24",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r188",
+  "doc_id": "d1",
+  "line": 189,
+  "date": "2026-06-24",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer C6",
+  "category": "sales"
+ },
+ {
+  "id": "r189",
+  "doc_id": "d1",
+  "line": 190,
+  "date": "2026-06-25",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer C1",
+  "category": "sales"
+ },
+ {
+  "id": "r190",
+  "doc_id": "d1",
+  "line": 191,
+  "date": "2026-06-25",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer B1",
+  "category": "sales"
+ },
+ {
+  "id": "r191",
+  "doc_id": "d1",
+  "line": 192,
+  "date": "2026-06-25",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer F7",
+  "category": "sales"
+ },
+ {
+  "id": "r192",
+  "doc_id": "d1",
+  "line": 193,
+  "date": "2026-06-25",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer D4",
+  "category": "sales"
+ },
+ {
+  "id": "r193",
+  "doc_id": "d1",
+  "line": 194,
+  "date": "2026-06-25",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer B5",
+  "category": "sales"
+ },
+ {
+  "id": "r194",
+  "doc_id": "d1",
+  "line": 195,
+  "date": "2026-06-26",
+  "amount": 295.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r195",
+  "doc_id": "d1",
+  "line": 196,
+  "date": "2026-06-27",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer B7",
+  "category": "sales"
+ },
+ {
+  "id": "r196",
+  "doc_id": "d1",
+  "line": 197,
+  "date": "2026-06-27",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer E4",
+  "category": "sales"
+ },
+ {
+  "id": "r197",
+  "doc_id": "d1",
+  "line": 198,
+  "date": "2026-06-27",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r198",
+  "doc_id": "d1",
+  "line": 199,
+  "date": "2026-06-27",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer F3",
+  "category": "sales"
+ },
+ {
+  "id": "r199",
+  "doc_id": "d1",
+  "line": 200,
+  "date": "2026-07-01",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer D4",
+  "category": "sales"
+ },
+ {
+  "id": "r200",
+  "doc_id": "d1",
+  "line": 201,
+  "date": "2026-07-01",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer D7",
+  "category": "sales"
+ },
+ {
+  "id": "r201",
+  "doc_id": "d1",
+  "line": 202,
+  "date": "2026-07-01",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer F4",
+  "category": "sales"
+ },
+ {
+  "id": "r202",
+  "doc_id": "d1",
+  "line": 203,
+  "date": "2026-07-01",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r203",
+  "doc_id": "d1",
+  "line": 204,
+  "date": "2026-07-01",
+  "amount": 50.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r204",
+  "doc_id": "d1",
+  "line": 205,
+  "date": "2026-07-01",
+  "amount": 70.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r205",
+  "doc_id": "d1",
+  "line": 206,
+  "date": "2026-07-01",
+  "amount": 220.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r206",
+  "doc_id": "d1",
+  "line": 207,
+  "date": "2026-07-02",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r207",
+  "doc_id": "d1",
+  "line": 208,
+  "date": "2026-07-02",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer D6",
+  "category": "sales"
+ },
+ {
+  "id": "r208",
+  "doc_id": "d1",
+  "line": 209,
+  "date": "2026-07-02",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer B3",
+  "category": "sales"
+ },
+ {
+  "id": "r209",
+  "doc_id": "d1",
+  "line": 210,
+  "date": "2026-07-02",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer D6",
+  "category": "sales"
+ },
+ {
+  "id": "r210",
+  "doc_id": "d1",
+  "line": 211,
+  "date": "2026-07-03",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer F3",
+  "category": "sales"
+ },
+ {
+  "id": "r211",
+  "doc_id": "d1",
+  "line": 212,
+  "date": "2026-07-03",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r212",
+  "doc_id": "d1",
+  "line": 213,
+  "date": "2026-07-03",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer F6",
+  "category": "sales"
+ },
+ {
+  "id": "r213",
+  "doc_id": "d1",
+  "line": 214,
+  "date": "2026-07-03",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer B4",
+  "category": "sales"
+ },
+ {
+  "id": "r214",
+  "doc_id": "d1",
+  "line": 215,
+  "date": "2026-07-04",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer C3",
+  "category": "sales"
+ },
+ {
+  "id": "r215",
+  "doc_id": "d1",
+  "line": 216,
+  "date": "2026-07-04",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer B8",
+  "category": "sales"
+ },
+ {
+  "id": "r216",
+  "doc_id": "d1",
+  "line": 217,
+  "date": "2026-07-04",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer C10",
+  "category": "sales"
+ },
+ {
+  "id": "r217",
+  "doc_id": "d1",
+  "line": 218,
+  "date": "2026-07-04",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r218",
+  "doc_id": "d1",
+  "line": 219,
+  "date": "2026-07-04",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer D5",
+  "category": "sales"
+ },
+ {
+  "id": "r219",
+  "doc_id": "d1",
+  "line": 220,
+  "date": "2026-07-04",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer F7",
+  "category": "sales"
+ },
+ {
+  "id": "r220",
+  "doc_id": "d1",
+  "line": 221,
+  "date": "2026-07-05",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r221",
+  "doc_id": "d1",
+  "line": 222,
+  "date": "2026-07-05",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer E9",
+  "category": "sales"
+ },
+ {
+  "id": "r222",
+  "doc_id": "d1",
+  "line": 223,
+  "date": "2026-07-05",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer F1",
+  "category": "sales"
+ },
+ {
+  "id": "r223",
+  "doc_id": "d1",
+  "line": 224,
+  "date": "2026-07-05",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer C7",
+  "category": "sales"
+ },
+ {
+  "id": "r224",
+  "doc_id": "d1",
+  "line": 225,
+  "date": "2026-07-05",
+  "amount": 1035.0,
+  "direction": "out",
+  "counterparty": "Supplier S1",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r225",
+  "doc_id": "d1",
+  "line": 226,
+  "date": "2026-07-06",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r226",
+  "doc_id": "d1",
+  "line": 227,
+  "date": "2026-07-06",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer C3",
+  "category": "sales"
+ },
+ {
+  "id": "r227",
+  "doc_id": "d1",
+  "line": 228,
+  "date": "2026-07-07",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer D10",
+  "category": "sales"
+ },
+ {
+  "id": "r228",
+  "doc_id": "d1",
+  "line": 229,
+  "date": "2026-07-07",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer B6",
+  "category": "sales"
+ },
+ {
+  "id": "r229",
+  "doc_id": "d1",
+  "line": 230,
+  "date": "2026-07-07",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r230",
+  "doc_id": "d1",
+  "line": 231,
+  "date": "2026-07-08",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer B1",
+  "category": "sales"
+ },
+ {
+  "id": "r231",
+  "doc_id": "d1",
+  "line": 232,
+  "date": "2026-07-08",
+  "amount": 310.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r232",
+  "doc_id": "d1",
+  "line": 233,
+  "date": "2026-07-10",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer B3",
+  "category": "sales"
+ },
+ {
+  "id": "r233",
+  "doc_id": "d1",
+  "line": 234,
+  "date": "2026-07-10",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer B6",
+  "category": "sales"
+ },
+ {
+  "id": "r234",
+  "doc_id": "d1",
+  "line": 235,
+  "date": "2026-07-10",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer C10",
+  "category": "sales"
+ },
+ {
+  "id": "r235",
+  "doc_id": "d1",
+  "line": 236,
+  "date": "2026-07-11",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer E4",
+  "category": "sales"
+ },
+ {
+  "id": "r236",
+  "doc_id": "d1",
+  "line": 237,
+  "date": "2026-07-11",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer D8",
+  "category": "sales"
+ },
+ {
+  "id": "r237",
+  "doc_id": "d1",
+  "line": 238,
+  "date": "2026-07-11",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r238",
+  "doc_id": "d1",
+  "line": 239,
+  "date": "2026-07-11",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer B6",
+  "category": "sales"
+ },
+ {
+  "id": "r239",
+  "doc_id": "d1",
+  "line": 240,
+  "date": "2026-07-12",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r240",
+  "doc_id": "d1",
+  "line": 241,
+  "date": "2026-07-12",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer E1",
+  "category": "sales"
+ },
+ {
+  "id": "r241",
+  "doc_id": "d1",
+  "line": 242,
+  "date": "2026-07-12",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer D10",
+  "category": "sales"
+ },
+ {
+  "id": "r242",
+  "doc_id": "d1",
+  "line": 243,
+  "date": "2026-07-12",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r243",
+  "doc_id": "d1",
+  "line": 244,
+  "date": "2026-07-13",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer E4",
+  "category": "sales"
+ },
+ {
+  "id": "r244",
+  "doc_id": "d1",
+  "line": 245,
+  "date": "2026-07-13",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer C7",
+  "category": "sales"
+ },
+ {
+  "id": "r245",
+  "doc_id": "d1",
+  "line": 246,
+  "date": "2026-07-13",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r246",
+  "doc_id": "d1",
+  "line": 247,
+  "date": "2026-07-13",
+  "amount": 110.0,
+  "direction": "in",
+  "counterparty": "Customer E9",
+  "category": "sales"
+ },
+ {
+  "id": "r247",
+  "doc_id": "d1",
+  "line": 248,
+  "date": "2026-07-13",
+  "amount": 1150.0,
+  "direction": "out",
+  "counterparty": "Supplier S2",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r248",
+  "doc_id": "d1",
+  "line": 249,
+  "date": "2026-07-14",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer F7",
+  "category": "sales"
+ },
+ {
+  "id": "r249",
+  "doc_id": "d1",
+  "line": 250,
+  "date": "2026-07-14",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer B9",
+  "category": "sales"
+ },
+ {
+  "id": "r250",
+  "doc_id": "d1",
+  "line": 251,
+  "date": "2026-07-14",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer B6",
+  "category": "sales"
+ },
+ {
+  "id": "r251",
+  "doc_id": "d1",
+  "line": 252,
+  "date": "2026-07-14",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer B1",
+  "category": "sales"
+ },
+ {
+  "id": "r252",
+  "doc_id": "d1",
+  "line": 253,
+  "date": "2026-07-14",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer D2",
+  "category": "sales"
+ },
+ {
+  "id": "r253",
+  "doc_id": "d1",
+  "line": 254,
+  "date": "2026-07-14",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r254",
+  "doc_id": "d1",
+  "line": 255,
+  "date": "2026-07-15",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r255",
+  "doc_id": "d1",
+  "line": 256,
+  "date": "2026-07-15",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer F7",
+  "category": "sales"
+ },
+ {
+  "id": "r256",
+  "doc_id": "d1",
+  "line": 257,
+  "date": "2026-07-15",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer D1",
+  "category": "sales"
+ },
+ {
+  "id": "r257",
+  "doc_id": "d1",
+  "line": 258,
+  "date": "2026-07-15",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer D3",
+  "category": "sales"
+ },
+ {
+  "id": "r258",
+  "doc_id": "d1",
+  "line": 259,
+  "date": "2026-07-15",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer F7",
+  "category": "sales"
+ },
+ {
+  "id": "r259",
+  "doc_id": "d1",
+  "line": 260,
+  "date": "2026-07-16",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer E8",
+  "category": "sales"
+ },
+ {
+  "id": "r260",
+  "doc_id": "d1",
+  "line": 261,
+  "date": "2026-07-16",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer F6",
+  "category": "sales"
+ },
+ {
+  "id": "r261",
+  "doc_id": "d1",
+  "line": 262,
+  "date": "2026-07-16",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer F3",
+  "category": "sales"
+ },
+ {
+  "id": "r262",
+  "doc_id": "d1",
+  "line": 263,
+  "date": "2026-07-16",
+  "amount": 55.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r263",
+  "doc_id": "d1",
+  "line": 264,
+  "date": "2026-07-17",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer B2",
+  "category": "sales"
+ },
+ {
+  "id": "r264",
+  "doc_id": "d1",
+  "line": 265,
+  "date": "2026-07-17",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer B4",
+  "category": "sales"
+ },
+ {
+  "id": "r265",
+  "doc_id": "d1",
+  "line": 266,
+  "date": "2026-07-18",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer C6",
+  "category": "sales"
+ },
+ {
+  "id": "r266",
+  "doc_id": "d1",
+  "line": 267,
+  "date": "2026-07-18",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer C10",
+  "category": "sales"
+ },
+ {
+  "id": "r267",
+  "doc_id": "d1",
+  "line": 268,
+  "date": "2026-07-19",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer C5",
+  "category": "sales"
+ },
+ {
+  "id": "r268",
+  "doc_id": "d1",
+  "line": 269,
+  "date": "2026-07-19",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer C4",
+  "category": "sales"
+ },
+ {
+  "id": "r269",
+  "doc_id": "d1",
+  "line": 270,
+  "date": "2026-07-19",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer B9",
+  "category": "sales"
+ },
+ {
+  "id": "r270",
+  "doc_id": "d1",
+  "line": 271,
+  "date": "2026-07-20",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer E5",
+  "category": "sales"
+ },
+ {
+  "id": "r271",
+  "doc_id": "d1",
+  "line": 272,
+  "date": "2026-07-20",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer B5",
+  "category": "sales"
+ },
+ {
+  "id": "r272",
+  "doc_id": "d1",
+  "line": 273,
+  "date": "2026-07-21",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r273",
+  "doc_id": "d1",
+  "line": 274,
+  "date": "2026-07-21",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer E1",
+  "category": "sales"
+ },
+ {
+  "id": "r274",
+  "doc_id": "d1",
+  "line": 275,
+  "date": "2026-07-22",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer D4",
+  "category": "sales"
+ },
+ {
+  "id": "r275",
+  "doc_id": "d1",
+  "line": 276,
+  "date": "2026-07-22",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer E3",
+  "category": "sales"
+ },
+ {
+  "id": "r276",
+  "doc_id": "d1",
+  "line": 277,
+  "date": "2026-07-23",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r277",
+  "doc_id": "d1",
+  "line": 278,
+  "date": "2026-07-23",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer E1",
+  "category": "sales"
+ },
+ {
+  "id": "r278",
+  "doc_id": "d1",
+  "line": 279,
+  "date": "2026-07-23",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer B5",
+  "category": "sales"
+ },
+ {
+  "id": "r279",
+  "doc_id": "d1",
+  "line": 280,
+  "date": "2026-07-23",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer E10",
+  "category": "sales"
+ },
+ {
+  "id": "r280",
+  "doc_id": "d1",
+  "line": 281,
+  "date": "2026-07-24",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer E5",
+  "category": "sales"
+ },
+ {
+  "id": "r281",
+  "doc_id": "d1",
+  "line": 282,
+  "date": "2026-07-24",
+  "amount": 1015.0,
+  "direction": "out",
+  "counterparty": "Supplier S3",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r282",
+  "doc_id": "d1",
+  "line": 283,
+  "date": "2026-07-25",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer A8",
+  "category": "sales"
+ },
+ {
+  "id": "r283",
+  "doc_id": "d1",
+  "line": 284,
+  "date": "2026-07-25",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer C5",
+  "category": "sales"
+ },
+ {
+  "id": "r284",
+  "doc_id": "d1",
+  "line": 285,
+  "date": "2026-07-25",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer C7",
+  "category": "sales"
+ },
+ {
+  "id": "r285",
+  "doc_id": "d1",
+  "line": 286,
+  "date": "2026-07-25",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer D5",
+  "category": "sales"
+ },
+ {
+  "id": "r286",
+  "doc_id": "d1",
+  "line": 287,
+  "date": "2026-07-25",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r287",
+  "doc_id": "d1",
+  "line": 288,
+  "date": "2026-07-26",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer B2",
+  "category": "sales"
+ },
+ {
+  "id": "r288",
+  "doc_id": "d1",
+  "line": 289,
+  "date": "2026-07-26",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer F1",
+  "category": "sales"
+ },
+ {
+  "id": "r289",
+  "doc_id": "d1",
+  "line": 290,
+  "date": "2026-07-26",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer F9",
+  "category": "sales"
+ },
+ {
+  "id": "r290",
+  "doc_id": "d1",
+  "line": 291,
+  "date": "2026-07-26",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer E6",
+  "category": "sales"
+ },
+ {
+  "id": "r291",
+  "doc_id": "d1",
+  "line": 292,
+  "date": "2026-07-27",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer C5",
+  "category": "sales"
+ },
+ {
+  "id": "r292",
+  "doc_id": "d1",
+  "line": 293,
+  "date": "2026-07-27",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r293",
+  "doc_id": "d1",
+  "line": 294,
+  "date": "2026-07-27",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r294",
+  "doc_id": "d1",
+  "line": 295,
+  "date": "2026-07-27",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer E9",
+  "category": "sales"
+ },
+ {
+  "id": "r295",
+  "doc_id": "d1",
+  "line": 296,
+  "date": "2026-07-28",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer D8",
+  "category": "sales"
+ },
+ {
+  "id": "r296",
+  "doc_id": "d1",
+  "line": 297,
+  "date": "2026-07-28",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r297",
+  "doc_id": "d1",
+  "line": 298,
+  "date": "2026-07-28",
+  "amount": 40.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r298",
+  "doc_id": "d1",
+  "line": 299,
+  "date": "2026-08-01",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer F1",
+  "category": "sales"
+ },
+ {
+  "id": "r299",
+  "doc_id": "d1",
+  "line": 300,
+  "date": "2026-08-01",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r300",
+  "doc_id": "d1",
+  "line": 301,
+  "date": "2026-08-01",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer B10",
+  "category": "sales"
+ },
+ {
+  "id": "r301",
+  "doc_id": "d1",
+  "line": 302,
+  "date": "2026-08-01",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r302",
+  "doc_id": "d1",
+  "line": 303,
+  "date": "2026-08-01",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer F4",
+  "category": "sales"
+ },
+ {
+  "id": "r303",
+  "doc_id": "d1",
+  "line": 304,
+  "date": "2026-08-02",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer F7",
+  "category": "sales"
+ },
+ {
+  "id": "r304",
+  "doc_id": "d1",
+  "line": 305,
+  "date": "2026-08-02",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r305",
+  "doc_id": "d1",
+  "line": 306,
+  "date": "2026-08-02",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r306",
+  "doc_id": "d1",
+  "line": 307,
+  "date": "2026-08-02",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer E7",
+  "category": "sales"
+ },
+ {
+  "id": "r307",
+  "doc_id": "d1",
+  "line": 308,
+  "date": "2026-08-02",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer A8",
+  "category": "sales"
+ },
+ {
+  "id": "r308",
+  "doc_id": "d1",
+  "line": 309,
+  "date": "2026-08-03",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer A8",
+  "category": "sales"
+ },
+ {
+  "id": "r309",
+  "doc_id": "d1",
+  "line": 310,
+  "date": "2026-08-03",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer B2",
+  "category": "sales"
+ },
+ {
+  "id": "r310",
+  "doc_id": "d1",
+  "line": 311,
+  "date": "2026-08-03",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer F6",
+  "category": "sales"
+ },
+ {
+  "id": "r311",
+  "doc_id": "d1",
+  "line": 312,
+  "date": "2026-08-03",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer B3",
+  "category": "sales"
+ },
+ {
+  "id": "r312",
+  "doc_id": "d1",
+  "line": 313,
+  "date": "2026-08-03",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer B7",
+  "category": "sales"
+ },
+ {
+  "id": "r313",
+  "doc_id": "d1",
+  "line": 314,
+  "date": "2026-08-03",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer B7",
+  "category": "sales"
+ },
+ {
+  "id": "r314",
+  "doc_id": "d1",
+  "line": 315,
+  "date": "2026-08-03",
+  "amount": 80.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r315",
+  "doc_id": "d1",
+  "line": 316,
+  "date": "2026-08-04",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer F6",
+  "category": "sales"
+ },
+ {
+  "id": "r316",
+  "doc_id": "d1",
+  "line": 317,
+  "date": "2026-08-04",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer E1",
+  "category": "sales"
+ },
+ {
+  "id": "r317",
+  "doc_id": "d1",
+  "line": 318,
+  "date": "2026-08-04",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer B5",
+  "category": "sales"
+ },
+ {
+  "id": "r318",
+  "doc_id": "d1",
+  "line": 319,
+  "date": "2026-08-04",
+  "amount": 35.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r319",
+  "doc_id": "d1",
+  "line": 320,
+  "date": "2026-08-05",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer A8",
+  "category": "sales"
+ },
+ {
+  "id": "r320",
+  "doc_id": "d1",
+  "line": 321,
+  "date": "2026-08-05",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer E10",
+  "category": "sales"
+ },
+ {
+  "id": "r321",
+  "doc_id": "d1",
+  "line": 322,
+  "date": "2026-08-05",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer D6",
+  "category": "sales"
+ },
+ {
+  "id": "r322",
+  "doc_id": "d1",
+  "line": 323,
+  "date": "2026-08-05",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer C6",
+  "category": "sales"
+ },
+ {
+  "id": "r323",
+  "doc_id": "d1",
+  "line": 324,
+  "date": "2026-08-05",
+  "amount": 1070.0,
+  "direction": "out",
+  "counterparty": "Supplier S1",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r324",
+  "doc_id": "d1",
+  "line": 325,
+  "date": "2026-08-06",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer F2",
+  "category": "sales"
+ },
+ {
+  "id": "r325",
+  "doc_id": "d1",
+  "line": 326,
+  "date": "2026-08-06",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r326",
+  "doc_id": "d1",
+  "line": 327,
+  "date": "2026-08-06",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer C3",
+  "category": "sales"
+ },
+ {
+  "id": "r327",
+  "doc_id": "d1",
+  "line": 328,
+  "date": "2026-08-06",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer C9",
+  "category": "sales"
+ },
+ {
+  "id": "r328",
+  "doc_id": "d1",
+  "line": 329,
+  "date": "2026-08-06",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer F5",
+  "category": "sales"
+ },
+ {
+  "id": "r329",
+  "doc_id": "d1",
+  "line": 330,
+  "date": "2026-08-06",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r330",
+  "doc_id": "d1",
+  "line": 331,
+  "date": "2026-08-06",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer D6",
+  "category": "sales"
+ },
+ {
+  "id": "r331",
+  "doc_id": "d1",
+  "line": 332,
+  "date": "2026-08-07",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer D8",
+  "category": "sales"
+ },
+ {
+  "id": "r332",
+  "doc_id": "d1",
+  "line": 333,
+  "date": "2026-08-07",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r333",
+  "doc_id": "d1",
+  "line": 334,
+  "date": "2026-08-08",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer E3",
+  "category": "sales"
+ },
+ {
+  "id": "r334",
+  "doc_id": "d1",
+  "line": 335,
+  "date": "2026-08-09",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r335",
+  "doc_id": "d1",
+  "line": 336,
+  "date": "2026-08-09",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer E10",
+  "category": "sales"
+ },
+ {
+  "id": "r336",
+  "doc_id": "d1",
+  "line": 337,
+  "date": "2026-08-09",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer D8",
+  "category": "sales"
+ },
+ {
+  "id": "r337",
+  "doc_id": "d1",
+  "line": 338,
+  "date": "2026-08-09",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r338",
+  "doc_id": "d1",
+  "line": 339,
+  "date": "2026-08-09",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer E6",
+  "category": "sales"
+ },
+ {
+  "id": "r339",
+  "doc_id": "d1",
+  "line": 340,
+  "date": "2026-08-10",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer C7",
+  "category": "sales"
+ },
+ {
+  "id": "r340",
+  "doc_id": "d1",
+  "line": 341,
+  "date": "2026-08-10",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer B1",
+  "category": "sales"
+ },
+ {
+  "id": "r341",
+  "doc_id": "d1",
+  "line": 342,
+  "date": "2026-08-10",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer D7",
+  "category": "sales"
+ },
+ {
+  "id": "r342",
+  "doc_id": "d1",
+  "line": 343,
+  "date": "2026-08-10",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer F4",
+  "category": "sales"
+ },
+ {
+  "id": "r343",
+  "doc_id": "d1",
+  "line": 344,
+  "date": "2026-08-10",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer E2",
+  "category": "sales"
+ },
+ {
+  "id": "r344",
+  "doc_id": "d1",
+  "line": 345,
+  "date": "2026-08-11",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer C3",
+  "category": "sales"
+ },
+ {
+  "id": "r345",
+  "doc_id": "d1",
+  "line": 346,
+  "date": "2026-08-11",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer C1",
+  "category": "sales"
+ },
+ {
+  "id": "r346",
+  "doc_id": "d1",
+  "line": 347,
+  "date": "2026-08-11",
+  "amount": 185.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r347",
+  "doc_id": "d1",
+  "line": 348,
+  "date": "2026-08-12",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer D6",
+  "category": "sales"
+ },
+ {
+  "id": "r348",
+  "doc_id": "d1",
+  "line": 349,
+  "date": "2026-08-12",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r349",
+  "doc_id": "d1",
+  "line": 350,
+  "date": "2026-08-12",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer E10",
+  "category": "sales"
+ },
+ {
+  "id": "r350",
+  "doc_id": "d1",
+  "line": 351,
+  "date": "2026-08-12",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer D8",
+  "category": "sales"
+ },
+ {
+  "id": "r351",
+  "doc_id": "d1",
+  "line": 352,
+  "date": "2026-08-12",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r352",
+  "doc_id": "d1",
+  "line": 353,
+  "date": "2026-08-12",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer E9",
+  "category": "sales"
+ },
+ {
+  "id": "r353",
+  "doc_id": "d1",
+  "line": 354,
+  "date": "2026-08-12",
+  "amount": 1175.0,
+  "direction": "out",
+  "counterparty": "Supplier S2",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r354",
+  "doc_id": "d1",
+  "line": 355,
+  "date": "2026-08-13",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer C1",
+  "category": "sales"
+ },
+ {
+  "id": "r355",
+  "doc_id": "d1",
+  "line": 356,
+  "date": "2026-08-13",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer C8",
+  "category": "sales"
+ },
+ {
+  "id": "r356",
+  "doc_id": "d1",
+  "line": 357,
+  "date": "2026-08-13",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer E8",
+  "category": "sales"
+ },
+ {
+  "id": "r357",
+  "doc_id": "d1",
+  "line": 358,
+  "date": "2026-08-15",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r358",
+  "doc_id": "d1",
+  "line": 359,
+  "date": "2026-08-15",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer B2",
+  "category": "sales"
+ },
+ {
+  "id": "r359",
+  "doc_id": "d1",
+  "line": 360,
+  "date": "2026-08-15",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r360",
+  "doc_id": "d1",
+  "line": 361,
+  "date": "2026-08-15",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r361",
+  "doc_id": "d1",
+  "line": 362,
+  "date": "2026-08-15",
+  "amount": 35.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r362",
+  "doc_id": "d1",
+  "line": 363,
+  "date": "2026-08-16",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer C9",
+  "category": "sales"
+ },
+ {
+  "id": "r363",
+  "doc_id": "d1",
+  "line": 364,
+  "date": "2026-08-16",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer F3",
+  "category": "sales"
+ },
+ {
+  "id": "r364",
+  "doc_id": "d1",
+  "line": 365,
+  "date": "2026-08-16",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer C5",
+  "category": "sales"
+ },
+ {
+  "id": "r365",
+  "doc_id": "d1",
+  "line": 366,
+  "date": "2026-08-16",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r366",
+  "doc_id": "d1",
+  "line": 367,
+  "date": "2026-08-17",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer E2",
+  "category": "sales"
+ },
+ {
+  "id": "r367",
+  "doc_id": "d1",
+  "line": 368,
+  "date": "2026-08-17",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer E9",
+  "category": "sales"
+ },
+ {
+  "id": "r368",
+  "doc_id": "d1",
+  "line": 369,
+  "date": "2026-08-18",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer B3",
+  "category": "sales"
+ },
+ {
+  "id": "r369",
+  "doc_id": "d1",
+  "line": 370,
+  "date": "2026-08-19",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer B10",
+  "category": "sales"
+ },
+ {
+  "id": "r370",
+  "doc_id": "d1",
+  "line": 371,
+  "date": "2026-08-19",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer E4",
+  "category": "sales"
+ },
+ {
+  "id": "r371",
+  "doc_id": "d1",
+  "line": 372,
+  "date": "2026-08-19",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer D6",
+  "category": "sales"
+ },
+ {
+  "id": "r372",
+  "doc_id": "d1",
+  "line": 373,
+  "date": "2026-08-19",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r373",
+  "doc_id": "d1",
+  "line": 374,
+  "date": "2026-08-19",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer D3",
+  "category": "sales"
+ },
+ {
+  "id": "r374",
+  "doc_id": "d1",
+  "line": 375,
+  "date": "2026-08-19",
+  "amount": 250.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r375",
+  "doc_id": "d1",
+  "line": 376,
+  "date": "2026-08-20",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer F4",
+  "category": "sales"
+ },
+ {
+  "id": "r376",
+  "doc_id": "d1",
+  "line": 377,
+  "date": "2026-08-20",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer B1",
+  "category": "sales"
+ },
+ {
+  "id": "r377",
+  "doc_id": "d1",
+  "line": 378,
+  "date": "2026-08-20",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r378",
+  "doc_id": "d1",
+  "line": 379,
+  "date": "2026-08-20",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer E7",
+  "category": "sales"
+ },
+ {
+  "id": "r379",
+  "doc_id": "d1",
+  "line": 380,
+  "date": "2026-08-20",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer F6",
+  "category": "sales"
+ },
+ {
+  "id": "r380",
+  "doc_id": "d1",
+  "line": 381,
+  "date": "2026-08-21",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer B1",
+  "category": "sales"
+ },
+ {
+  "id": "r381",
+  "doc_id": "d1",
+  "line": 382,
+  "date": "2026-08-22",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer D2",
+  "category": "sales"
+ },
+ {
+  "id": "r382",
+  "doc_id": "d1",
+  "line": 383,
+  "date": "2026-08-22",
+  "amount": 980.0,
+  "direction": "out",
+  "counterparty": "Supplier S3",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r383",
+  "doc_id": "d1",
+  "line": 384,
+  "date": "2026-08-23",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer C6",
+  "category": "sales"
+ },
+ {
+  "id": "r384",
+  "doc_id": "d1",
+  "line": 385,
+  "date": "2026-08-23",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer F9",
+  "category": "sales"
+ },
+ {
+  "id": "r385",
+  "doc_id": "d1",
+  "line": 386,
+  "date": "2026-08-23",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer C1",
+  "category": "sales"
+ },
+ {
+  "id": "r386",
+  "doc_id": "d1",
+  "line": 387,
+  "date": "2026-08-24",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r387",
+  "doc_id": "d1",
+  "line": 388,
+  "date": "2026-08-24",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer D6",
+  "category": "sales"
+ },
+ {
+  "id": "r388",
+  "doc_id": "d1",
+  "line": 389,
+  "date": "2026-08-24",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r389",
+  "doc_id": "d1",
+  "line": 390,
+  "date": "2026-08-25",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer E3",
+  "category": "sales"
+ },
+ {
+  "id": "r390",
+  "doc_id": "d1",
+  "line": 391,
+  "date": "2026-08-25",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r391",
+  "doc_id": "d1",
+  "line": 392,
+  "date": "2026-08-25",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer F7",
+  "category": "sales"
+ },
+ {
+  "id": "r392",
+  "doc_id": "d1",
+  "line": 393,
+  "date": "2026-08-26",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer E4",
+  "category": "sales"
+ },
+ {
+  "id": "r393",
+  "doc_id": "d1",
+  "line": 394,
+  "date": "2026-08-26",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r394",
+  "doc_id": "d1",
+  "line": 395,
+  "date": "2026-08-27",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r395",
+  "doc_id": "d1",
+  "line": 396,
+  "date": "2026-08-27",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer C8",
+  "category": "sales"
+ },
+ {
+  "id": "r396",
+  "doc_id": "d1",
+  "line": 397,
+  "date": "2026-08-27",
+  "amount": 70.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r397",
+  "doc_id": "d1",
+  "line": 398,
+  "date": "2026-08-28",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer B5",
+  "category": "sales"
+ },
+ {
+  "id": "r398",
+  "doc_id": "d1",
+  "line": 399,
+  "date": "2026-08-28",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer C3",
+  "category": "sales"
+ },
+ {
+  "id": "r399",
+  "doc_id": "d1",
+  "line": 400,
+  "date": "2026-08-28",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer D4",
+  "category": "sales"
+ },
+ {
+  "id": "r400",
+  "doc_id": "d1",
+  "line": 401,
+  "date": "2026-08-28",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer E10",
+  "category": "sales"
+ },
+ {
+  "id": "r401",
+  "doc_id": "d1",
+  "line": 402,
+  "date": "2026-08-28",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer D6",
+  "category": "sales"
+ },
+ {
+  "id": "r402",
+  "doc_id": "d1",
+  "line": 403,
+  "date": "2026-08-28",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer B8",
+  "category": "sales"
+ },
+ {
+  "id": "r403",
+  "doc_id": "d1",
+  "line": 404,
+  "date": "2026-08-28",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer E8",
+  "category": "sales"
+ },
+ {
+  "id": "r404",
+  "doc_id": "d1",
+  "line": 405,
+  "date": "2026-08-28",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r405",
+  "doc_id": "d1",
+  "line": 406,
+  "date": "2026-09-01",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer B1",
+  "category": "sales"
+ },
+ {
+  "id": "r406",
+  "doc_id": "d1",
+  "line": 407,
+  "date": "2026-09-01",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer D2",
+  "category": "sales"
+ },
+ {
+  "id": "r407",
+  "doc_id": "d1",
+  "line": 408,
+  "date": "2026-09-01",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer C3",
+  "category": "sales"
+ },
+ {
+  "id": "r408",
+  "doc_id": "d1",
+  "line": 409,
+  "date": "2026-09-02",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r409",
+  "doc_id": "d1",
+  "line": 410,
+  "date": "2026-09-02",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer B3",
+  "category": "sales"
+ },
+ {
+  "id": "r410",
+  "doc_id": "d1",
+  "line": 411,
+  "date": "2026-09-02",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r411",
+  "doc_id": "d1",
+  "line": 412,
+  "date": "2026-09-02",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer F8",
+  "category": "sales"
+ },
+ {
+  "id": "r412",
+  "doc_id": "d1",
+  "line": 413,
+  "date": "2026-09-03",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer A8",
+  "category": "sales"
+ },
+ {
+  "id": "r413",
+  "doc_id": "d1",
+  "line": 414,
+  "date": "2026-09-03",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer D2",
+  "category": "sales"
+ },
+ {
+  "id": "r414",
+  "doc_id": "d1",
+  "line": 415,
+  "date": "2026-09-03",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r415",
+  "doc_id": "d1",
+  "line": 416,
+  "date": "2026-09-04",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer D4",
+  "category": "sales"
+ },
+ {
+  "id": "r416",
+  "doc_id": "d1",
+  "line": 417,
+  "date": "2026-09-04",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer D4",
+  "category": "sales"
+ },
+ {
+  "id": "r417",
+  "doc_id": "d1",
+  "line": 418,
+  "date": "2026-09-04",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer C4",
+  "category": "sales"
+ },
+ {
+  "id": "r418",
+  "doc_id": "d1",
+  "line": 419,
+  "date": "2026-09-05",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r419",
+  "doc_id": "d1",
+  "line": 420,
+  "date": "2026-09-05",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer D6",
+  "category": "sales"
+ },
+ {
+  "id": "r420",
+  "doc_id": "d1",
+  "line": 421,
+  "date": "2026-09-05",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r421",
+  "doc_id": "d1",
+  "line": 422,
+  "date": "2026-09-05",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer A8",
+  "category": "sales"
+ },
+ {
+  "id": "r422",
+  "doc_id": "d1",
+  "line": 423,
+  "date": "2026-09-05",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer B1",
+  "category": "sales"
+ },
+ {
+  "id": "r423",
+  "doc_id": "d1",
+  "line": 424,
+  "date": "2026-09-05",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer F9",
+  "category": "sales"
+ },
+ {
+  "id": "r424",
+  "doc_id": "d1",
+  "line": 425,
+  "date": "2026-09-05",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer D3",
+  "category": "sales"
+ },
+ {
+  "id": "r425",
+  "doc_id": "d1",
+  "line": 426,
+  "date": "2026-09-05",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r426",
+  "doc_id": "d1",
+  "line": 427,
+  "date": "2026-09-05",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r427",
+  "doc_id": "d1",
+  "line": 428,
+  "date": "2026-09-05",
+  "amount": 1200.0,
+  "direction": "out",
+  "counterparty": "Supplier S1",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r428",
+  "doc_id": "d1",
+  "line": 429,
+  "date": "2026-09-06",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer D3",
+  "category": "sales"
+ },
+ {
+  "id": "r429",
+  "doc_id": "d1",
+  "line": 430,
+  "date": "2026-09-07",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer E5",
+  "category": "sales"
+ },
+ {
+  "id": "r430",
+  "doc_id": "d1",
+  "line": 431,
+  "date": "2026-09-07",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer D2",
+  "category": "sales"
+ },
+ {
+  "id": "r431",
+  "doc_id": "d1",
+  "line": 432,
+  "date": "2026-09-07",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer F7",
+  "category": "sales"
+ },
+ {
+  "id": "r432",
+  "doc_id": "d1",
+  "line": 433,
+  "date": "2026-09-07",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer E8",
+  "category": "sales"
+ },
+ {
+  "id": "r433",
+  "doc_id": "d1",
+  "line": 434,
+  "date": "2026-09-07",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer F6",
+  "category": "sales"
+ },
+ {
+  "id": "r434",
+  "doc_id": "d1",
+  "line": 435,
+  "date": "2026-09-09",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer D10",
+  "category": "sales"
+ },
+ {
+  "id": "r435",
+  "doc_id": "d1",
+  "line": 436,
+  "date": "2026-09-09",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer E5",
+  "category": "sales"
+ },
+ {
+  "id": "r436",
+  "doc_id": "d1",
+  "line": 437,
+  "date": "2026-09-09",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer B3",
+  "category": "sales"
+ },
+ {
+  "id": "r437",
+  "doc_id": "d1",
+  "line": 438,
+  "date": "2026-09-09",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer D8",
+  "category": "sales"
+ },
+ {
+  "id": "r438",
+  "doc_id": "d1",
+  "line": 439,
+  "date": "2026-09-09",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r439",
+  "doc_id": "d1",
+  "line": 440,
+  "date": "2026-09-09",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer B6",
+  "category": "sales"
+ },
+ {
+  "id": "r440",
+  "doc_id": "d1",
+  "line": 441,
+  "date": "2026-09-09",
+  "amount": 55.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r441",
+  "doc_id": "d1",
+  "line": 442,
+  "date": "2026-09-10",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r442",
+  "doc_id": "d1",
+  "line": 443,
+  "date": "2026-09-10",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer D10",
+  "category": "sales"
+ },
+ {
+  "id": "r443",
+  "doc_id": "d1",
+  "line": 444,
+  "date": "2026-09-10",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer C6",
+  "category": "sales"
+ },
+ {
+  "id": "r444",
+  "doc_id": "d1",
+  "line": 445,
+  "date": "2026-09-10",
+  "amount": 110.0,
+  "direction": "in",
+  "counterparty": "Customer F10",
+  "category": "sales"
+ },
+ {
+  "id": "r445",
+  "doc_id": "d1",
+  "line": 446,
+  "date": "2026-09-11",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r446",
+  "doc_id": "d1",
+  "line": 447,
+  "date": "2026-09-11",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer C6",
+  "category": "sales"
+ },
+ {
+  "id": "r447",
+  "doc_id": "d1",
+  "line": 448,
+  "date": "2026-09-11",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r448",
+  "doc_id": "d1",
+  "line": 449,
+  "date": "2026-09-12",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer C6",
+  "category": "sales"
+ },
+ {
+  "id": "r449",
+  "doc_id": "d1",
+  "line": 450,
+  "date": "2026-09-12",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer C3",
+  "category": "sales"
+ },
+ {
+  "id": "r450",
+  "doc_id": "d1",
+  "line": 451,
+  "date": "2026-09-12",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer C5",
+  "category": "sales"
+ },
+ {
+  "id": "r451",
+  "doc_id": "d1",
+  "line": 452,
+  "date": "2026-09-13",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer D5",
+  "category": "sales"
+ },
+ {
+  "id": "r452",
+  "doc_id": "d1",
+  "line": 453,
+  "date": "2026-09-13",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer C5",
+  "category": "sales"
+ },
+ {
+  "id": "r453",
+  "doc_id": "d1",
+  "line": 454,
+  "date": "2026-09-13",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer C1",
+  "category": "sales"
+ },
+ {
+  "id": "r454",
+  "doc_id": "d1",
+  "line": 455,
+  "date": "2026-09-13",
+  "amount": 1085.0,
+  "direction": "out",
+  "counterparty": "Supplier S2",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r455",
+  "doc_id": "d1",
+  "line": 456,
+  "date": "2026-09-14",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r456",
+  "doc_id": "d1",
+  "line": 457,
+  "date": "2026-09-14",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer D5",
+  "category": "sales"
+ },
+ {
+  "id": "r457",
+  "doc_id": "d1",
+  "line": 458,
+  "date": "2026-09-14",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r458",
+  "doc_id": "d1",
+  "line": 459,
+  "date": "2026-09-14",
+  "amount": 70.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r459",
+  "doc_id": "d1",
+  "line": 460,
+  "date": "2026-09-15",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r460",
+  "doc_id": "d1",
+  "line": 461,
+  "date": "2026-09-15",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r461",
+  "doc_id": "d1",
+  "line": 462,
+  "date": "2026-09-15",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer D2",
+  "category": "sales"
+ },
+ {
+  "id": "r462",
+  "doc_id": "d1",
+  "line": 463,
+  "date": "2026-09-15",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer D3",
+  "category": "sales"
+ },
+ {
+  "id": "r463",
+  "doc_id": "d1",
+  "line": 464,
+  "date": "2026-09-15",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer C9",
+  "category": "sales"
+ },
+ {
+  "id": "r464",
+  "doc_id": "d1",
+  "line": 465,
+  "date": "2026-09-15",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r465",
+  "doc_id": "d1",
+  "line": 466,
+  "date": "2026-09-15",
+  "amount": 110.0,
+  "direction": "in",
+  "counterparty": "Customer B10",
+  "category": "sales"
+ },
+ {
+  "id": "r466",
+  "doc_id": "d1",
+  "line": 467,
+  "date": "2026-09-16",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer C3",
+  "category": "sales"
+ },
+ {
+  "id": "r467",
+  "doc_id": "d1",
+  "line": 468,
+  "date": "2026-09-16",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer C4",
+  "category": "sales"
+ },
+ {
+  "id": "r468",
+  "doc_id": "d1",
+  "line": 469,
+  "date": "2026-09-16",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer B1",
+  "category": "sales"
+ },
+ {
+  "id": "r469",
+  "doc_id": "d1",
+  "line": 470,
+  "date": "2026-09-17",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer D1",
+  "category": "sales"
+ },
+ {
+  "id": "r470",
+  "doc_id": "d1",
+  "line": 471,
+  "date": "2026-09-17",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer E7",
+  "category": "sales"
+ },
+ {
+  "id": "r471",
+  "doc_id": "d1",
+  "line": 472,
+  "date": "2026-09-17",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer B1",
+  "category": "sales"
+ },
+ {
+  "id": "r472",
+  "doc_id": "d1",
+  "line": 473,
+  "date": "2026-09-17",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer E6",
+  "category": "sales"
+ },
+ {
+  "id": "r473",
+  "doc_id": "d1",
+  "line": 474,
+  "date": "2026-09-17",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer B1",
+  "category": "sales"
+ },
+ {
+  "id": "r474",
+  "doc_id": "d1",
+  "line": 475,
+  "date": "2026-09-17",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r475",
+  "doc_id": "d1",
+  "line": 476,
+  "date": "2026-09-17",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer C3",
+  "category": "sales"
+ },
+ {
+  "id": "r476",
+  "doc_id": "d1",
+  "line": 477,
+  "date": "2026-09-17",
+  "amount": 45.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r477",
+  "doc_id": "d1",
+  "line": 478,
+  "date": "2026-09-18",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer D4",
+  "category": "sales"
+ },
+ {
+  "id": "r478",
+  "doc_id": "d1",
+  "line": 479,
+  "date": "2026-09-18",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r479",
+  "doc_id": "d1",
+  "line": 480,
+  "date": "2026-09-18",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer D2",
+  "category": "sales"
+ },
+ {
+  "id": "r480",
+  "doc_id": "d1",
+  "line": 481,
+  "date": "2026-09-18",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer B10",
+  "category": "sales"
+ },
+ {
+  "id": "r481",
+  "doc_id": "d1",
+  "line": 482,
+  "date": "2026-09-18",
+  "amount": 65.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r482",
+  "doc_id": "d1",
+  "line": 483,
+  "date": "2026-09-19",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer F8",
+  "category": "sales"
+ },
+ {
+  "id": "r483",
+  "doc_id": "d1",
+  "line": 484,
+  "date": "2026-09-19",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer D6",
+  "category": "sales"
+ },
+ {
+  "id": "r484",
+  "doc_id": "d1",
+  "line": 485,
+  "date": "2026-09-20",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer D4",
+  "category": "sales"
+ },
+ {
+  "id": "r485",
+  "doc_id": "d1",
+  "line": 486,
+  "date": "2026-09-20",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r486",
+  "doc_id": "d1",
+  "line": 487,
+  "date": "2026-09-20",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer C4",
+  "category": "sales"
+ },
+ {
+  "id": "r487",
+  "doc_id": "d1",
+  "line": 488,
+  "date": "2026-09-21",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer C3",
+  "category": "sales"
+ },
+ {
+  "id": "r488",
+  "doc_id": "d1",
+  "line": 489,
+  "date": "2026-09-21",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer C10",
+  "category": "sales"
+ },
+ {
+  "id": "r489",
+  "doc_id": "d1",
+  "line": 490,
+  "date": "2026-09-21",
+  "amount": 175.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r490",
+  "doc_id": "d1",
+  "line": 491,
+  "date": "2026-09-22",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r491",
+  "doc_id": "d1",
+  "line": 492,
+  "date": "2026-09-22",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r492",
+  "doc_id": "d1",
+  "line": 493,
+  "date": "2026-09-22",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer D4",
+  "category": "sales"
+ },
+ {
+  "id": "r493",
+  "doc_id": "d1",
+  "line": 494,
+  "date": "2026-09-22",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer C8",
+  "category": "sales"
+ },
+ {
+  "id": "r494",
+  "doc_id": "d1",
+  "line": 495,
+  "date": "2026-09-23",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer F9",
+  "category": "sales"
+ },
+ {
+  "id": "r495",
+  "doc_id": "d1",
+  "line": 496,
+  "date": "2026-09-23",
+  "amount": 1110.0,
+  "direction": "out",
+  "counterparty": "Supplier S3",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r496",
+  "doc_id": "d1",
+  "line": 497,
+  "date": "2026-09-24",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer B8",
+  "category": "sales"
+ },
+ {
+  "id": "r497",
+  "doc_id": "d1",
+  "line": 498,
+  "date": "2026-09-24",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r498",
+  "doc_id": "d1",
+  "line": 499,
+  "date": "2026-09-24",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer E2",
+  "category": "sales"
+ },
+ {
+  "id": "r499",
+  "doc_id": "d1",
+  "line": 500,
+  "date": "2026-09-24",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer D3",
+  "category": "sales"
+ },
+ {
+  "id": "r500",
+  "doc_id": "d1",
+  "line": 501,
+  "date": "2026-09-25",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer F6",
+  "category": "sales"
+ },
+ {
+  "id": "r501",
+  "doc_id": "d1",
+  "line": 502,
+  "date": "2026-09-25",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer E1",
+  "category": "sales"
+ },
+ {
+  "id": "r502",
+  "doc_id": "d1",
+  "line": 503,
+  "date": "2026-09-25",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer D2",
+  "category": "sales"
+ },
+ {
+  "id": "r503",
+  "doc_id": "d1",
+  "line": 504,
+  "date": "2026-09-25",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer D8",
+  "category": "sales"
+ },
+ {
+  "id": "r504",
+  "doc_id": "d1",
+  "line": 505,
+  "date": "2026-09-26",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer B3",
+  "category": "sales"
+ },
+ {
+  "id": "r505",
+  "doc_id": "d1",
+  "line": 506,
+  "date": "2026-09-26",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer A8",
+  "category": "sales"
+ },
+ {
+  "id": "r506",
+  "doc_id": "d1",
+  "line": 507,
+  "date": "2026-09-27",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer B5",
+  "category": "sales"
+ },
+ {
+  "id": "r507",
+  "doc_id": "d1",
+  "line": 508,
+  "date": "2026-09-27",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer C4",
+  "category": "sales"
+ },
+ {
+  "id": "r508",
+  "doc_id": "d1",
+  "line": 509,
+  "date": "2026-09-27",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r509",
+  "doc_id": "d1",
+  "line": 510,
+  "date": "2026-09-27",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer F3",
+  "category": "sales"
+ },
+ {
+  "id": "r510",
+  "doc_id": "d1",
+  "line": 511,
+  "date": "2026-09-28",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer B9",
+  "category": "sales"
+ },
+ {
+  "id": "r511",
+  "doc_id": "d1",
+  "line": 512,
+  "date": "2026-09-28",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer F8",
+  "category": "sales"
+ },
+ {
+  "id": "r512",
+  "doc_id": "d1",
+  "line": 513,
+  "date": "2026-09-28",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer C8",
+  "category": "sales"
+ },
+ {
+  "id": "r513",
+  "doc_id": "d1",
+  "line": 514,
+  "date": "2026-09-28",
+  "amount": 255.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r514",
+  "doc_id": "d1",
+  "line": 515,
+  "date": "2026-10-02",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r515",
+  "doc_id": "d1",
+  "line": 516,
+  "date": "2026-10-02",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r516",
+  "doc_id": "d1",
+  "line": 517,
+  "date": "2026-10-03",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r517",
+  "doc_id": "d1",
+  "line": 518,
+  "date": "2026-10-03",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r518",
+  "doc_id": "d1",
+  "line": 519,
+  "date": "2026-10-03",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer D8",
+  "category": "sales"
+ },
+ {
+  "id": "r519",
+  "doc_id": "d1",
+  "line": 520,
+  "date": "2026-10-03",
+  "amount": 110.0,
+  "direction": "in",
+  "counterparty": "Customer D10",
+  "category": "sales"
+ },
+ {
+  "id": "r520",
+  "doc_id": "d1",
+  "line": 521,
+  "date": "2026-10-05",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer B5",
+  "category": "sales"
+ },
+ {
+  "id": "r521",
+  "doc_id": "d1",
+  "line": 522,
+  "date": "2026-10-05",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer E4",
+  "category": "sales"
+ },
+ {
+  "id": "r522",
+  "doc_id": "d1",
+  "line": 523,
+  "date": "2026-10-05",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer F1",
+  "category": "sales"
+ },
+ {
+  "id": "r523",
+  "doc_id": "d1",
+  "line": 524,
+  "date": "2026-10-05",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer D8",
+  "category": "sales"
+ },
+ {
+  "id": "r524",
+  "doc_id": "d1",
+  "line": 525,
+  "date": "2026-10-05",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer B7",
+  "category": "sales"
+ },
+ {
+  "id": "r525",
+  "doc_id": "d1",
+  "line": 526,
+  "date": "2026-10-05",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r526",
+  "doc_id": "d1",
+  "line": 527,
+  "date": "2026-10-06",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r527",
+  "doc_id": "d1",
+  "line": 528,
+  "date": "2026-10-06",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer D9",
+  "category": "sales"
+ },
+ {
+  "id": "r528",
+  "doc_id": "d1",
+  "line": 529,
+  "date": "2026-10-06",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r529",
+  "doc_id": "d1",
+  "line": 530,
+  "date": "2026-10-06",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer C4",
+  "category": "sales"
+ },
+ {
+  "id": "r530",
+  "doc_id": "d1",
+  "line": 531,
+  "date": "2026-10-06",
+  "amount": 85.0,
+  "direction": "in",
+  "counterparty": "Customer C6",
+  "category": "sales"
+ },
+ {
+  "id": "r531",
+  "doc_id": "d1",
+  "line": 532,
+  "date": "2026-10-06",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer F7",
+  "category": "sales"
+ },
+ {
+  "id": "r532",
+  "doc_id": "d1",
+  "line": 533,
+  "date": "2026-10-06",
+  "amount": 65.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r533",
+  "doc_id": "d1",
+  "line": 534,
+  "date": "2026-10-06",
+  "amount": 235.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r534",
+  "doc_id": "d1",
+  "line": 535,
+  "date": "2026-10-06",
+  "amount": 1270.0,
+  "direction": "out",
+  "counterparty": "Supplier S1",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r535",
+  "doc_id": "d1",
+  "line": 536,
+  "date": "2026-10-08",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer E10",
+  "category": "sales"
+ },
+ {
+  "id": "r536",
+  "doc_id": "d1",
+  "line": 537,
+  "date": "2026-10-08",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer A10",
+  "category": "sales"
+ },
+ {
+  "id": "r537",
+  "doc_id": "d1",
+  "line": 538,
+  "date": "2026-10-08",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r538",
+  "doc_id": "d1",
+  "line": 539,
+  "date": "2026-10-09",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer E9",
+  "category": "sales"
+ },
+ {
+  "id": "r539",
+  "doc_id": "d1",
+  "line": 540,
+  "date": "2026-10-09",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer F3",
+  "category": "sales"
+ },
+ {
+  "id": "r540",
+  "doc_id": "d1",
+  "line": 541,
+  "date": "2026-10-09",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r541",
+  "doc_id": "d1",
+  "line": 542,
+  "date": "2026-10-09",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r542",
+  "doc_id": "d1",
+  "line": 543,
+  "date": "2026-10-09",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer D3",
+  "category": "sales"
+ },
+ {
+  "id": "r543",
+  "doc_id": "d1",
+  "line": 544,
+  "date": "2026-10-10",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r544",
+  "doc_id": "d1",
+  "line": 545,
+  "date": "2026-10-10",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer C4",
+  "category": "sales"
+ },
+ {
+  "id": "r545",
+  "doc_id": "d1",
+  "line": 546,
+  "date": "2026-10-10",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer E8",
+  "category": "sales"
+ },
+ {
+  "id": "r546",
+  "doc_id": "d1",
+  "line": 547,
+  "date": "2026-10-10",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer F3",
+  "category": "sales"
+ },
+ {
+  "id": "r547",
+  "doc_id": "d1",
+  "line": 548,
+  "date": "2026-10-10",
+  "amount": 65.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r548",
+  "doc_id": "d1",
+  "line": 549,
+  "date": "2026-10-11",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer C10",
+  "category": "sales"
+ },
+ {
+  "id": "r549",
+  "doc_id": "d1",
+  "line": 550,
+  "date": "2026-10-11",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r550",
+  "doc_id": "d1",
+  "line": 551,
+  "date": "2026-10-11",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r551",
+  "doc_id": "d1",
+  "line": 552,
+  "date": "2026-10-11",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer E5",
+  "category": "sales"
+ },
+ {
+  "id": "r552",
+  "doc_id": "d1",
+  "line": 553,
+  "date": "2026-10-11",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer B8",
+  "category": "sales"
+ },
+ {
+  "id": "r553",
+  "doc_id": "d1",
+  "line": 554,
+  "date": "2026-10-11",
+  "amount": 110.0,
+  "direction": "in",
+  "counterparty": "Customer B3",
+  "category": "sales"
+ },
+ {
+  "id": "r554",
+  "doc_id": "d1",
+  "line": 555,
+  "date": "2026-10-12",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r555",
+  "doc_id": "d1",
+  "line": 556,
+  "date": "2026-10-12",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer C9",
+  "category": "sales"
+ },
+ {
+  "id": "r556",
+  "doc_id": "d1",
+  "line": 557,
+  "date": "2026-10-12",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r557",
+  "doc_id": "d1",
+  "line": 558,
+  "date": "2026-10-12",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer D10",
+  "category": "sales"
+ },
+ {
+  "id": "r558",
+  "doc_id": "d1",
+  "line": 559,
+  "date": "2026-10-13",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r559",
+  "doc_id": "d1",
+  "line": 560,
+  "date": "2026-10-14",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer C5",
+  "category": "sales"
+ },
+ {
+  "id": "r560",
+  "doc_id": "d1",
+  "line": 561,
+  "date": "2026-10-14",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer C3",
+  "category": "sales"
+ },
+ {
+  "id": "r561",
+  "doc_id": "d1",
+  "line": 562,
+  "date": "2026-10-14",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r562",
+  "doc_id": "d1",
+  "line": 563,
+  "date": "2026-10-14",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer A2",
+  "category": "sales"
+ },
+ {
+  "id": "r563",
+  "doc_id": "d1",
+  "line": 564,
+  "date": "2026-10-14",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer E10",
+  "category": "sales"
+ },
+ {
+  "id": "r564",
+  "doc_id": "d1",
+  "line": 565,
+  "date": "2026-10-14",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer C2",
+  "category": "sales"
+ },
+ {
+  "id": "r565",
+  "doc_id": "d1",
+  "line": 566,
+  "date": "2026-10-15",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer D1",
+  "category": "sales"
+ },
+ {
+  "id": "r566",
+  "doc_id": "d1",
+  "line": 567,
+  "date": "2026-10-15",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer F2",
+  "category": "sales"
+ },
+ {
+  "id": "r567",
+  "doc_id": "d1",
+  "line": 568,
+  "date": "2026-10-15",
+  "amount": 220.0,
+  "direction": "out",
+  "counterparty": "Own account",
+  "category": "personal"
+ },
+ {
+  "id": "r568",
+  "doc_id": "d1",
+  "line": 569,
+  "date": "2026-10-15",
+  "amount": 1310.0,
+  "direction": "out",
+  "counterparty": "Supplier S2",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r569",
+  "doc_id": "d1",
+  "line": 570,
+  "date": "2026-10-16",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer B8",
+  "category": "sales"
+ },
+ {
+  "id": "r570",
+  "doc_id": "d1",
+  "line": 571,
+  "date": "2026-10-16",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer C9",
+  "category": "sales"
+ },
+ {
+  "id": "r571",
+  "doc_id": "d1",
+  "line": 572,
+  "date": "2026-10-16",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r572",
+  "doc_id": "d1",
+  "line": 573,
+  "date": "2026-10-16",
+  "amount": 110.0,
+  "direction": "in",
+  "counterparty": "Customer E4",
+  "category": "sales"
+ },
+ {
+  "id": "r573",
+  "doc_id": "d1",
+  "line": 574,
+  "date": "2026-10-17",
+  "amount": 10.0,
+  "direction": "in",
+  "counterparty": "Customer D4",
+  "category": "sales"
+ },
+ {
+  "id": "r574",
+  "doc_id": "d1",
+  "line": 575,
+  "date": "2026-10-17",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer E8",
+  "category": "sales"
+ },
+ {
+  "id": "r575",
+  "doc_id": "d1",
+  "line": 576,
+  "date": "2026-10-17",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer D2",
+  "category": "sales"
+ },
+ {
+  "id": "r576",
+  "doc_id": "d1",
+  "line": 577,
+  "date": "2026-10-17",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer F8",
+  "category": "sales"
+ },
+ {
+  "id": "r577",
+  "doc_id": "d1",
+  "line": 578,
+  "date": "2026-10-17",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer C3",
+  "category": "sales"
+ },
+ {
+  "id": "r578",
+  "doc_id": "d1",
+  "line": 579,
+  "date": "2026-10-17",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer A10",
+  "category": "sales"
+ },
+ {
+  "id": "r579",
+  "doc_id": "d1",
+  "line": 580,
+  "date": "2026-10-17",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer C6",
+  "category": "sales"
+ },
+ {
+  "id": "r580",
+  "doc_id": "d1",
+  "line": 581,
+  "date": "2026-10-18",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer B1",
+  "category": "sales"
+ },
+ {
+  "id": "r581",
+  "doc_id": "d1",
+  "line": 582,
+  "date": "2026-10-18",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer D10",
+  "category": "sales"
+ },
+ {
+  "id": "r582",
+  "doc_id": "d1",
+  "line": 583,
+  "date": "2026-10-18",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer B3",
+  "category": "sales"
+ },
+ {
+  "id": "r583",
+  "doc_id": "d1",
+  "line": 584,
+  "date": "2026-10-19",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r584",
+  "doc_id": "d1",
+  "line": 585,
+  "date": "2026-10-19",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer C8",
+  "category": "sales"
+ },
+ {
+  "id": "r585",
+  "doc_id": "d1",
+  "line": 586,
+  "date": "2026-10-19",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer D5",
+  "category": "sales"
+ },
+ {
+  "id": "r586",
+  "doc_id": "d1",
+  "line": 587,
+  "date": "2026-10-19",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer F3",
+  "category": "sales"
+ },
+ {
+  "id": "r587",
+  "doc_id": "d1",
+  "line": 588,
+  "date": "2026-10-19",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer F10",
+  "category": "sales"
+ },
+ {
+  "id": "r588",
+  "doc_id": "d1",
+  "line": 589,
+  "date": "2026-10-19",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer B2",
+  "category": "sales"
+ },
+ {
+  "id": "r589",
+  "doc_id": "d1",
+  "line": 590,
+  "date": "2026-10-19",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer E10",
+  "category": "sales"
+ },
+ {
+  "id": "r590",
+  "doc_id": "d1",
+  "line": 591,
+  "date": "2026-10-20",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer E2",
+  "category": "sales"
+ },
+ {
+  "id": "r591",
+  "doc_id": "d1",
+  "line": 592,
+  "date": "2026-10-20",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer B2",
+  "category": "sales"
+ },
+ {
+  "id": "r592",
+  "doc_id": "d1",
+  "line": 593,
+  "date": "2026-10-20",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer E2",
+  "category": "sales"
+ },
+ {
+  "id": "r593",
+  "doc_id": "d1",
+  "line": 594,
+  "date": "2026-10-20",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer A5",
+  "category": "sales"
+ },
+ {
+  "id": "r594",
+  "doc_id": "d1",
+  "line": 595,
+  "date": "2026-10-20",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r595",
+  "doc_id": "d1",
+  "line": 596,
+  "date": "2026-10-21",
+  "amount": 15.0,
+  "direction": "in",
+  "counterparty": "Customer A1",
+  "category": "sales"
+ },
+ {
+  "id": "r596",
+  "doc_id": "d1",
+  "line": 597,
+  "date": "2026-10-21",
+  "amount": 30.0,
+  "direction": "in",
+  "counterparty": "Customer A7",
+  "category": "sales"
+ },
+ {
+  "id": "r597",
+  "doc_id": "d1",
+  "line": 598,
+  "date": "2026-10-21",
+  "amount": 50.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r598",
+  "doc_id": "d1",
+  "line": 599,
+  "date": "2026-10-21",
+  "amount": 60.0,
+  "direction": "in",
+  "counterparty": "Customer D4",
+  "category": "sales"
+ },
+ {
+  "id": "r599",
+  "doc_id": "d1",
+  "line": 600,
+  "date": "2026-10-21",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer C5",
+  "category": "sales"
+ },
+ {
+  "id": "r600",
+  "doc_id": "d1",
+  "line": 601,
+  "date": "2026-10-21",
+  "amount": 1345.0,
+  "direction": "out",
+  "counterparty": "Supplier S3",
+  "category": "stock purchase"
+ },
+ {
+  "id": "r601",
+  "doc_id": "d1",
+  "line": 602,
+  "date": "2026-10-22",
+  "amount": 20.0,
+  "direction": "in",
+  "counterparty": "Customer A10",
+  "category": "sales"
+ },
+ {
+  "id": "r602",
+  "doc_id": "d1",
+  "line": 603,
+  "date": "2026-10-22",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer B8",
+  "category": "sales"
+ },
+ {
+  "id": "r603",
+  "doc_id": "d1",
+  "line": 604,
+  "date": "2026-10-22",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer B7",
+  "category": "sales"
+ },
+ {
+  "id": "r604",
+  "doc_id": "d1",
+  "line": 605,
+  "date": "2026-10-22",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer E3",
+  "category": "sales"
+ },
+ {
+  "id": "r605",
+  "doc_id": "d1",
+  "line": 606,
+  "date": "2026-10-22",
+  "amount": 90.0,
+  "direction": "in",
+  "counterparty": "Customer F6",
+  "category": "sales"
+ },
+ {
+  "id": "r606",
+  "doc_id": "d1",
+  "line": 607,
+  "date": "2026-10-23",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer A10",
+  "category": "sales"
+ },
+ {
+  "id": "r607",
+  "doc_id": "d1",
+  "line": 608,
+  "date": "2026-10-23",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r608",
+  "doc_id": "d1",
+  "line": 609,
+  "date": "2026-10-23",
+  "amount": 75.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r609",
+  "doc_id": "d1",
+  "line": 610,
+  "date": "2026-10-24",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer F1",
+  "category": "sales"
+ },
+ {
+  "id": "r610",
+  "doc_id": "d1",
+  "line": 611,
+  "date": "2026-10-24",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer A9",
+  "category": "sales"
+ },
+ {
+  "id": "r611",
+  "doc_id": "d1",
+  "line": 612,
+  "date": "2026-10-24",
+  "amount": 70.0,
+  "direction": "in",
+  "counterparty": "Customer F9",
+  "category": "sales"
+ },
+ {
+  "id": "r612",
+  "doc_id": "d1",
+  "line": 613,
+  "date": "2026-10-24",
+  "amount": 105.0,
+  "direction": "in",
+  "counterparty": "Customer B5",
+  "category": "sales"
+ },
+ {
+  "id": "r613",
+  "doc_id": "d1",
+  "line": 614,
+  "date": "2026-10-25",
+  "amount": 45.0,
+  "direction": "in",
+  "counterparty": "Customer B8",
+  "category": "sales"
+ },
+ {
+  "id": "r614",
+  "doc_id": "d1",
+  "line": 615,
+  "date": "2026-10-25",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer F5",
+  "category": "sales"
+ },
+ {
+  "id": "r615",
+  "doc_id": "d1",
+  "line": 616,
+  "date": "2026-10-25",
+  "amount": 95.0,
+  "direction": "in",
+  "counterparty": "Customer B2",
+  "category": "sales"
+ },
+ {
+  "id": "r616",
+  "doc_id": "d1",
+  "line": 617,
+  "date": "2026-10-26",
+  "amount": 25.0,
+  "direction": "in",
+  "counterparty": "Customer F9",
+  "category": "sales"
+ },
+ {
+  "id": "r617",
+  "doc_id": "d1",
+  "line": 618,
+  "date": "2026-10-26",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer E6",
+  "category": "sales"
+ },
+ {
+  "id": "r618",
+  "doc_id": "d1",
+  "line": 619,
+  "date": "2026-10-26",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer B7",
+  "category": "sales"
+ },
+ {
+  "id": "r619",
+  "doc_id": "d1",
+  "line": 620,
+  "date": "2026-10-26",
+  "amount": 50.0,
+  "direction": "out",
+  "counterparty": "Transport",
+  "category": "transport"
+ },
+ {
+  "id": "r620",
+  "doc_id": "d1",
+  "line": 621,
+  "date": "2026-10-27",
+  "amount": 35.0,
+  "direction": "in",
+  "counterparty": "Customer A3",
+  "category": "sales"
+ },
+ {
+  "id": "r621",
+  "doc_id": "d1",
+  "line": 622,
+  "date": "2026-10-27",
+  "amount": 40.0,
+  "direction": "in",
+  "counterparty": "Customer B10",
+  "category": "sales"
+ },
+ {
+  "id": "r622",
+  "doc_id": "d1",
+  "line": 623,
+  "date": "2026-10-27",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer F6",
+  "category": "sales"
+ },
+ {
+  "id": "r623",
+  "doc_id": "d1",
+  "line": 624,
+  "date": "2026-10-27",
+  "amount": 75.0,
+  "direction": "in",
+  "counterparty": "Customer A6",
+  "category": "sales"
+ },
+ {
+  "id": "r624",
+  "doc_id": "d1",
+  "line": 625,
+  "date": "2026-10-27",
+  "amount": 80.0,
+  "direction": "in",
+  "counterparty": "Customer F8",
+  "category": "sales"
+ },
+ {
+  "id": "r625",
+  "doc_id": "d1",
+  "line": 626,
+  "date": "2026-10-27",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer A4",
+  "category": "sales"
+ },
+ {
+  "id": "r626",
+  "doc_id": "d1",
+  "line": 627,
+  "date": "2026-10-28",
+  "amount": 55.0,
+  "direction": "in",
+  "counterparty": "Customer C9",
+  "category": "sales"
+ },
+ {
+  "id": "r627",
+  "doc_id": "d1",
+  "line": 628,
+  "date": "2026-10-28",
+  "amount": 65.0,
+  "direction": "in",
+  "counterparty": "Customer D7",
+  "category": "sales"
+ },
+ {
+  "id": "r628",
+  "doc_id": "d1",
+  "line": 629,
+  "date": "2026-10-28",
+  "amount": 100.0,
+  "direction": "in",
+  "counterparty": "Customer A8",
+  "category": "sales"
+ }
+]
